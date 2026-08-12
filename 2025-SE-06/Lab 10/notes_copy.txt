@@ -1,0 +1,4 @@
+File opened.
+First file handling program.
+Cpp code.
+Maryam Jamil , Roll No: 2025-SE-06
