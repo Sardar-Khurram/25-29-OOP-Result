@@ -24,3 +24,39 @@ Dear Komal,
 Outstanding performance on Lab 2! Your code is highly organized, and Task 6 is structured beautifully with clear custom headers and driver executables.
 
 The only issue in your submission is a classic C++ logical error in Task 4's temperature conversion: you wrote `celsius * (9/5) + 32`. Because both `9` and `5` are integers, the compiler performs integer division and truncates `9/5` to `1`. Writing it as `celsius * (9.0 / 5.0) + 32` or `celsius * 1.8 + 32` will solve this and give accurate results. Excellent job otherwise!
+
+<br><br>
+
+---
+---
+
+<br><br>
+
+---
+---
+
+# Lab 3 Evaluation Report (Encapsulation Task)
+**Student Roll Number:** 2025-SE-14  
+**Student Name:** Komal Shafique  
+
+---
+
+### **Evaluation Rubric Table**
+
+| **Criteria** | **Max Marks** | **Marks Obtained** | **Teacher's Feedback & Explanation** |
+| :--- | :---: | :---: | :--- |
+| **Class Definition & Object Usage** | 3 | **3** | Excellent. Correct class structure with object creation in `Product.h` and `Main.cpp`. |
+| **Member Variables** | 3 | **3** | Excellent. Relevant attributes defined clearly with proper data types. |
+| **Member Functions (Inside/Outside)** | 3 | **3** | Excellent. Functions defined and used correctly as per instruction. |
+| **Use of Access Specifiers** | 3 | **3** | Excellent. All data members are private and accessed via public methods. |
+| **Use of Getters/Setters** | 3 | **3** | Excellent. Proper getters/setters used with validation and clear naming. |
+| **Input/Output & Execution** | 3 | **3** | Excellent. Takes input and displays output correctly and clearly. |
+
+---
+
+### **Summary of Results**
+* **Total Marks:** **18 / 18 (100%)**
+* **Grade Status:** **Excellent (Full Marks)**
+
+### **Overall Teacher Remarks**
+Dear Komal, Flawless submission! You implemented encapsulation, setter validation, and test execution perfectly. Keep up the great work!

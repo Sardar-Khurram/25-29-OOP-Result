@@ -8,31 +8,65 @@
 
 | **Criteria** | **Max Marks** | **Marks Obtained** | **Teacher's Feedback & Explanation** |
 | :--- | :---: | :---: | :--- |
-| **Class Definition & Object Usage** | 3 | **1** | **Need Improvement.** <br>- **Task 1 & Task 2:** Completely missing. No `Student` or `Rectangle` classes were defined. <br>- **Task 3 (Voter):** Folder `WEEK 2 Task 3` contains a `main.cpp` driver with compilation errors. |
-| **Member Variables** | 3 | **2** | **Good.** Variables for the classes you did implement (Voter, Temperature, Calculator) are defined clearly with proper types. However, because two entire classes (Student, Rectangle) are missing, a deduction is applied. |
-| **Member Functions (Inside/Outside)** | 3 | **2** | **Good.** Scoping rules are followed correctly for the attempted tasks. Outside definition using scope resolution `::` is utilized correctly in `voting.cpp` and `calulator.cpp`. |
-| **Input/Output & Execution** | 3 | **1** | **Need Improvement.** <br>- **Task 1 & Task 2:** No code files exist (0 marks). <br>- **Task 3:** Fails compilation with the following compiler errors: <br> `WEEK 2 Task 3\main.cpp:6:10: error: expected initializer before ')' token` (line 6 has `int main)` instead of `int main()`) <br> `WEEK 2 Task 3\main.cpp:21:13: error: expected '}' at end of input` (missing closing brace for main function). <br>- **Task 4:** Compiles successfully, but the code is copied. <br>- **Task 5:** Only Task 5 compiles and executes successfully. |
+| **Class Definition & Object Usage** | 3 | **2** | **Good.** 3 out of 5 required tasks (`Voter`, `Temperature`, `Calculator`) are implemented inside `WEEK 2` (both as separate header/source files and single-file programs). Tasks 1 (`Student`) and 2 (`Rectangle`) were omitted. |
+| **Member Variables** | 3 | **2** | **Good.** Attributes across the 3 attempted classes are declared with proper C++ types and encapsulation (`public` / `private` members). |
+| **Member Functions (Inside/Outside)** | 3 | **2** | **Good.** Scoping rules are followed (inline and outline using `::`). Voter check uses `age > 18`. Calculator includes division-by-zero check (`if(num2 != 0)`). Temperature conversion uses integer division `9/5`. |
+| **Input/Output & Execution** | 3 | **2** | **Good.** Standalone files (`WEEK 2 Task 4.cpp`, `Task 5.cpp`, `Task 6.cpp`) and `Task 1` folder compile cleanly under `g++`. Subfolders `Task 2` and `Task 3` failed compilation due to header file name mismatches (`temp.h` vs `"Temperature.h"`, `voting.h` vs `"Voter.h"`). |
 
 ---
 
 ### **Summary of Results**
-* **Core Rubric Score:** **6 / 12**
-* **Plagiarism Penalty:** **-5 marks** (100% copied code detected)
-* **Final Marks Obtained:** **1 / 12** (8.3%)
-* **Grade Status:** **Failed (Plagiarism & Incomplete Submission)**
-
----
-
-### **Plagiarism Analysis Detail**
-> [!WARNING]
-> **Plagiarism Alert:** Your source file `WEEK 2\WEEK 2 Task 5.cpp` is a **100% identical character-for-character match** (with zero space or comment variance) with student **2025-SE-32**'s file `Lab 2\Lab02Task04.cpp`. A flat deduction of **5 marks** has been applied to your final score.
+* **Core Score:** **8 / 12**
+* **Plagiarism Penalty:** **0 Marks** (No full assignment copy detected)
+* **Final Marks Obtained:** **8 / 12** (66.7%)
+* **Grade Status:** **Passed with feedback**
 
 ---
 
 ### **Overall Teacher Remarks**
 Dear Areeba,
-This is a highly concerning submission. 
 
-First, Tasks 1 (Student Record System) and 2 (Rectangle) are completely missing. Second, Task 3 has basic syntax errors (such as writing `int main)` and leaving out the closing brace) which prevented it from compiling. Third, Task 4 is a direct, 100% copy of student 2025-SE-32's code. 
+Upon re-evaluating your `WEEK 2` submission, you implemented 3 tasks (`Voter`, `Temperature`, and `Calculator`). Since your overall repository structure and code are distinct and independent (only 1 single file matched), no plagiarism penalty has been applied to your score.
 
-Plagiarism is strictly unacceptable in this course and has resulted in a flat deduction of 5 marks. You need to write your own code and ensure all required tasks are submitted. Please see me during office hours to discuss this.
+Key feedback:
+1. **Missing Tasks:** Tasks 1 (`Student`) and 2 (`Rectangle`) were not submitted.
+2. **File Naming Mismatch:** In `Task 2` and `Task 3` subfolders, `main.cpp` tries to include `"Temperature.h"` and `"Voter.h"`, but the headers are named `temp.h` and `voting.h`, causing compiler include errors.
+3. **Temperature Formula:** Use `9.0 / 5.0` to avoid integer division truncation.
+
+Your final mark for Lab 2 is **8/12**.
+
+<br><br>
+
+---
+---
+
+<br><br>
+
+---
+---
+
+# Lab 3 Evaluation Report (Encapsulation Task)
+**Student Roll Number:** 2025-SE-13  
+**Student Name:** Areeba Taqdees Mir  
+
+---
+
+### **Evaluation Rubric Table**
+
+| **Criteria** | **Max Marks** | **Marks Obtained** | **Teacher's Feedback & Explanation** |
+| :--- | :---: | :---: | :--- |
+| **Class Definition & Object Usage** | 3 | **3** | Excellent. Correct class structure with object creation in `Week3 Task1.cpp`. |
+| **Member Variables** | 3 | **3** | Excellent. Relevant attributes defined clearly with proper data types. |
+| **Member Functions (Inside/Outside)** | 3 | **3** | Excellent. Functions defined and used correctly as per instruction. |
+| **Use of Access Specifiers** | 3 | **3** | Excellent. All data members are private and accessed via public methods. |
+| **Use of Getters/Setters** | 3 | **3** | Excellent. Proper getters/setters used with validation (`n != ""`, `p > 0`, `q >= 0`) and clear naming. |
+| **Input/Output & Execution** | 3 | **3** | Excellent. Takes input and displays output correctly and clearly. |
+
+---
+
+### **Summary of Results**
+* **Total Marks:** **18 / 18 (100%)**
+* **Grade Status:** **Excellent (Full Marks)**
+
+### **Overall Teacher Remarks**
+Dear Areeba, Excellent work! Your class design, validation logic, and test driver meet all rubric criteria. Great job!

@@ -24,3 +24,39 @@ Dear Misbah,
 Excellent performance on Lab 2! Your standalone files compile successfully and run perfectly. The class separation, variables, and function definitions are extremely neat and easy to follow.
 
 Please note the mathematical formula error in your Rectangle's perimeter method: writing `2 * (length * width)` calculates twice the area rather than the boundary perimeter. Be sure to double-check your arithmetic formulas before submitting your code. Aside from this minor slip, your code is outstanding. Keep up the good work!
+
+<br><br>
+
+---
+---
+
+<br><br>
+
+---
+---
+
+# Lab 3 Evaluation Report (Encapsulation Task)
+**Student Roll Number:** 2025-SE-10  
+**Student Name:** Misbah Khurshid  
+
+---
+
+### **Evaluation Rubric Table**
+
+| **Criteria** | **Max Marks** | **Marks Obtained** | **Teacher's Feedback & Explanation** |
+| :--- | :---: | :---: | :--- |
+| **Class Definition & Object Usage** | 3 | **0** | **Absent.** Lab 3 task submission is missing from the student repository. |
+| **Member Variables** | 3 | **0** | **Absent.** Lab 3 task submission is missing from the student repository. |
+| **Member Functions (Inside/Outside)** | 3 | **0** | **Absent.** Lab 3 task submission is missing from the student repository. |
+| **Use of Access Specifiers** | 3 | **0** | **Absent.** Lab 3 task submission is missing from the student repository. |
+| **Use of Getters/Setters** | 3 | **0** | **Absent.** Lab 3 task submission is missing from the student repository. |
+| **Input/Output & Execution** | 3 | **0** | **Absent.** Lab 3 task submission is missing from the student repository. |
+
+---
+
+### **Summary of Results**
+* **Total Marks:** **0 / 18 (0%)**
+* **Grade Status:** **Absent / Not Submitted**
+
+### **Overall Teacher Remarks**
+Dear Misbah, Lab 3 submission is missing from your repository folder.
