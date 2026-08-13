@@ -1,19 +1,19 @@
 # Lab 1 Evaluation Report (Structures & Pointers)
 
-**Student Roll Number:** 2025-SE-02
-**Student Name:** Shahnza Munir
+**Student Roll Number:** 2025-SE-34
+**Student Name:** Niqash Ali
 **Task Folder Location:** `Lab-01\Task-01.cpp` to `Task-03.cpp`
 
 ---
 
 ### 📊 **Evaluation Rubric Table**
 
-| **Criteria**                               | **Max Marks** | **Marks Obtained** | **Teacher's Feedback & Explanation**                                                                                                                                                                                                                                                                              |
-| :----------------------------------------- | :-----------: | :----------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Structure Definition & Member Function** |       3       |        **3**       | **Excellent.** The `Student` structure correctly contains `firstName`, `lastName`, `rollNumber`, and `marks`. The `displayStudentInfo()` member function correctly displays the student's full name and marks. Task 1 also correctly creates a structure variable, assigns values, and calls the member function. |
-| **Array of Structures**                    |       3       |        **3**       | **Excellent.** Task 2 correctly implements an array of `Student` structures, accepts the number of students and their details through user input, and calls `displayStudentInfo()` for each student.                                                                                                              |
-| **Structure Pointer & Dynamic Access**     |       3       |        **2**       | **Good.** Task 3 correctly creates a dynamically allocated `Student` object using `new`, accesses its members through the structure pointer using `->`, and calls `displayStudentInfo()` through the pointer. However, the allocated memory is **not released using `delete`**, resulting in a memory leak.       |
-| **Input, Output & Execution**              |       3       |        **3**       | **Excellent.** All three tasks contain the required input/output functionality. Task 1 directly assigns student information, while Tasks 2 and 3 accept student information from the user and display the required name and marks.                                                                                |
+| **Criteria**                               | **Max Marks** | **Marks Obtained** | **Teacher's Feedback & Explanation**                                                                                                                                                                                                                                                                                                                                                                                    |
+| :----------------------------------------- | :-----------: | :----------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Structure Definition & Member Function** |       3       |        **2**       | **Good.** Task 1 correctly defines the structure with `name`, `last_name`, `roll_no`, and `marks`, and the `display()` function correctly displays the student's name and marks. However, the required member function is specifically named `displayStudentInfo()`, while the submission uses `display()`. The implementation is functionally correct but does not follow the required function specification exactly. |
+| **Array of Structures**                    |       3       |        **3**       | **Excellent.** Task 2 correctly creates an array of `student` structures, accepts multiple student records through user input, and calls the display function for every student. I compiled and tested it with two student records, and both were displayed correctly. The only technical issue is that `student s[n]` is a variable-length array, which GCC accepts as an extension but which is not standard C++.     |
+| **Structure Pointer & Dynamic Access**     |       3       |        **3**       | **Excellent.** Task 3 correctly dynamically allocates an array of `student` structures using `new student[n]`, accesses members through the pointer using `ptr[i].member`, and calls the member function for each record. The program correctly handles multiple students and displays their information.                                                                                                               |
+| **Input, Output & Execution**              |       3       |        **3**       | **Excellent.** All three programs compiled successfully with C++17. Task 1 executed correctly, while Tasks 2 and 3 were tested with two student records and both produced the expected output. Task 2 generated only a non-fatal warning because of the variable-length array.                                                                                                                                          |
 
 ---
 
@@ -29,16 +29,26 @@
 ### ⚠️ **Plagiarism Audit Detail**
 
 > **No plagiarism penalty applied.**
-> The submitted files were evaluated against the Lab 1 requirements. No comparison submission was provided for this evaluation, so a 100% code-match determination cannot be established from the available materials. The Lab 1 policy specifies a **-3 mark penalty** when a student's code is found to be 100% identical to another student's code.
+> The submitted files were evaluated against the Lab 1 requirements. No comparison submission was provided for this evaluation, so a 100% code-match determination cannot be established from the available materials. The Lab 1 policy specifies a **-3 mark penalty** when a student's code is found to be plagiarized or matching 100% with another student's code.
 
 ---
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Shahnza,** your Lab 1 submission demonstrates a **strong understanding of structures, arrays of structures, and structure pointers**. All three tasks implement the main requirements successfully.
+**Dear Niqash,** your Lab 1 submission demonstrates a **strong understanding of structures, arrays of structures, and dynamic structure allocation**.
 
-Task 3 is functionally correct in its use of dynamic allocation and pointer-based member access. However, after allocating memory using `new Student`, the program does not release that memory using `delete`. This should be corrected to avoid a **memory leak**.
+Task 1 correctly implements the required student data members, creates a structure object, assigns values, and displays the student's name and marks. The only issue is that the assignment specifically requires a member function named **`displayStudentInfo()`**, while the submitted implementation uses **`display()`**.
 
-Also, Task 2 uses a variable-length array (`Student students[n]`), which is not standard C++ and may cause portability issues with strict C++ compilers. A fixed-size array or dynamic allocation would be preferable.
+Task 2 correctly handles multiple students using an array of structures. I compiled and tested the program with two student records, and both records were correctly displayed.
+
+Task 3 demonstrates dynamic allocation using:
+
+```cpp
+student *ptr = new student[n];
+```
+
+and correctly stores and accesses multiple student records through the allocated structure array. The program was compiled and tested successfully.
+
+One technical improvement is recommended for Task 2: `student s[n]` is a **variable-length array**, which GCC supports as an extension but which is not standard C++. A `vector<student>` or dynamic allocation would be preferable.
 
 **Overall performance: Excellent — 11/12.**

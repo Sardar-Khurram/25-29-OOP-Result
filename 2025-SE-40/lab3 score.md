@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-40  
-**Student Name:** Danish Iqbal / Muhammad Haris  
+**Student Name:** Danish Iqbal  
 **Task Folder Location:** `LAB 03 Encapsulation\Product.h & main.cpp`  
 
 ---

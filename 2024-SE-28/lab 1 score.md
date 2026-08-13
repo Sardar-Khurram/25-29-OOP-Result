@@ -1,19 +1,19 @@
 # Lab 1 Evaluation Report (Structures & Pointers)
 
-**Student Roll Number:** 2025-SE-02
-**Student Name:** Shahnza Munir
+**Student Roll Number:** 2024-SE-28
+**Student Name:** Raja Wajihullah Khan
 **Task Folder Location:** `Lab-01\Task-01.cpp` to `Task-03.cpp`
 
 ---
 
 ### 📊 **Evaluation Rubric Table**
 
-| **Criteria**                               | **Max Marks** | **Marks Obtained** | **Teacher's Feedback & Explanation**                                                                                                                                                                                                                                                                              |
-| :----------------------------------------- | :-----------: | :----------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Structure Definition & Member Function** |       3       |        **3**       | **Excellent.** The `Student` structure correctly contains `firstName`, `lastName`, `rollNumber`, and `marks`. The `displayStudentInfo()` member function correctly displays the student's full name and marks. Task 1 also correctly creates a structure variable, assigns values, and calls the member function. |
-| **Array of Structures**                    |       3       |        **3**       | **Excellent.** Task 2 correctly implements an array of `Student` structures, accepts the number of students and their details through user input, and calls `displayStudentInfo()` for each student.                                                                                                              |
-| **Structure Pointer & Dynamic Access**     |       3       |        **2**       | **Good.** Task 3 correctly creates a dynamically allocated `Student` object using `new`, accesses its members through the structure pointer using `->`, and calls `displayStudentInfo()` through the pointer. However, the allocated memory is **not released using `delete`**, resulting in a memory leak.       |
-| **Input, Output & Execution**              |       3       |        **3**       | **Excellent.** All three tasks contain the required input/output functionality. Task 1 directly assigns student information, while Tasks 2 and 3 accept student information from the user and display the required name and marks.                                                                                |
+| **Criteria**                               | **Max Marks** | **Marks Obtained** | **Teacher's Feedback & Explanation**                                                                                                                                                                                                                                                                                                                                                                   |
+| :----------------------------------------- | :-----------: | :----------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Structure Definition & Member Function** |       3       |        **2**       | **Good.** Task 1 correctly defines the required student attributes and displays the student's full name and marks. However, the required function is `displayStudentInfo()`, while the submission defines `displayStudentInfo(Student student)` and passes the complete structure object as an argument. The implementation is valid, but it does not follow the specified function interface exactly. |
+| **Array of Structures**                    |       3       |        **3**       | **Excellent.** Task 2 correctly creates an array of `Student` structures, accepts details for multiple students through user input, and calls `displayStudentInfo()` for each student. The input and display loops are correctly implemented.                                                                                                                                                          |
+| **Structure Pointer & Dynamic Access**     |       3       |        **3**       | **Excellent.** Task 3 correctly declares structure pointers, uses the `->` operator to assign structure members, and calls `displayStudentInfo()` through the pointers. This satisfies the required pointer-to-structure access.                                                                                                                                                                       |
+| **Input, Output & Execution**              |       3       |        **3**       | **Excellent.** All three task implementations are syntactically valid and the logic is correct. Task 1 displays two assigned records, Task 2 accepts and displays two student records, and Task 3 assigns and displays two records through structure pointers.                                                                                                                                         |
 
 ---
 
@@ -29,16 +29,32 @@
 ### ⚠️ **Plagiarism Audit Detail**
 
 > **No plagiarism penalty applied.**
-> The submitted files were evaluated against the Lab 1 requirements. No comparison submission was provided for this evaluation, so a 100% code-match determination cannot be established from the available materials. The Lab 1 policy specifies a **-3 mark penalty** when a student's code is found to be 100% identical to another student's code.
+> The submitted files were evaluated against the Lab 1 requirements. No comparison submission was provided for this evaluation, so a 100% code-match determination cannot be established from the available materials. The Lab 1 policy specifies a **-3 mark penalty** for code found to be plagiarized or matching 100% with another student's code.
 
 ---
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Shahnza,** your Lab 1 submission demonstrates a **strong understanding of structures, arrays of structures, and structure pointers**. All three tasks implement the main requirements successfully.
+**Dear Raja Wajihullah,** your submission demonstrates a **strong understanding of structures, arrays of structures, and structure pointers**.
 
-Task 3 is functionally correct in its use of dynamic allocation and pointer-based member access. However, after allocating memory using `new Student`, the program does not release that memory using `delete`. This should be corrected to avoid a **memory leak**.
+Task 1 is functionally correct, but the member-function design differs slightly from the required specification. The assignment asks for:
 
-Also, Task 2 uses a variable-length array (`Student students[n]`), which is not standard C++ and may cause portability issues with strict C++ compilers. A fixed-size array or dynamic allocation would be preferable.
+```cpp
+void displayStudentInfo()
+```
+
+whereas the submission uses:
+
+```cpp
+void displayStudentInfo(Student student)
+```
+
+and calls it by passing the same structure object. This is valid C++, but the parameter is unnecessary because the member function can directly access the object's own members.
+
+Task 2 correctly implements the array-of-structures requirement, including user input for multiple students and a separate display loop.
+
+Task 3 correctly demonstrates pointer-to-structure access using `Student *ptr1` and `Student *ptr2`, with the `->` operator used for member assignment and function invocation.
+
+The additional `Age` member is not required by the task, but it does not interfere with the required functionality.
 
 **Overall performance: Excellent — 11/12.**

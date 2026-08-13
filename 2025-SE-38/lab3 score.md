@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-38  
-**Student Name:** Ammar Yasir / Usama Bin Iftikhar  
+**Student Name:** Ammar Yasir  
 **Task Folder Location:** `Lab No 03\Product.h & main.cpp`  
 
 ---

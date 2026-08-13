@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-36  
-**Student Name:** Tanzeela Rehman / Hamza Ali  
+**Student Name:** Tanzeela Rehman
 **Task Folder Location:** `lab 3\encapsulation.cpp`  
 
 ---

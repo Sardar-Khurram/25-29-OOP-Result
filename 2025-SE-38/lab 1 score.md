@@ -1,27 +1,27 @@
 # Lab 1 Evaluation Report (Structures & Pointers)
 
-**Student Roll Number:** 2025-SE-02
-**Student Name:** Shahnza Munir
+**Student Roll Number:** 2025-SE-38
+**Student Name:** Ammar Yasir
 **Task Folder Location:** `Lab-01\Task-01.cpp` to `Task-03.cpp`
 
 ---
 
 ### 📊 **Evaluation Rubric Table**
 
-| **Criteria**                               | **Max Marks** | **Marks Obtained** | **Teacher's Feedback & Explanation**                                                                                                                                                                                                                                                                              |
-| :----------------------------------------- | :-----------: | :----------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Structure Definition & Member Function** |       3       |        **3**       | **Excellent.** The `Student` structure correctly contains `firstName`, `lastName`, `rollNumber`, and `marks`. The `displayStudentInfo()` member function correctly displays the student's full name and marks. Task 1 also correctly creates a structure variable, assigns values, and calls the member function. |
-| **Array of Structures**                    |       3       |        **3**       | **Excellent.** Task 2 correctly implements an array of `Student` structures, accepts the number of students and their details through user input, and calls `displayStudentInfo()` for each student.                                                                                                              |
-| **Structure Pointer & Dynamic Access**     |       3       |        **2**       | **Good.** Task 3 correctly creates a dynamically allocated `Student` object using `new`, accesses its members through the structure pointer using `->`, and calls `displayStudentInfo()` through the pointer. However, the allocated memory is **not released using `delete`**, resulting in a memory leak.       |
-| **Input, Output & Execution**              |       3       |        **3**       | **Excellent.** All three tasks contain the required input/output functionality. Task 1 directly assigns student information, while Tasks 2 and 3 accept student information from the user and display the required name and marks.                                                                                |
+| **Criteria**                               | **Max Marks** | **Marks Obtained** | **Teacher's Feedback & Explanation**                                                                                                                                                                                                                                                                                                                                  |
+| :----------------------------------------- | :-----------: | :----------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Structure Definition & Member Function** |       3       |        **3**       | **Excellent.** The submission correctly defines a `student` structure containing first name, last name, roll number, and marks. The required `displayStudentInfo()` function correctly displays the student's name and marks. The single-object implementation creates a structure variable, assigns all required values, and calls the member function successfully. |
+| **Array of Structures**                    |       3       |        **3**       | **Excellent.** The array implementation correctly creates an array of two `student` structures, accepts the required details for multiple students through input, and then calls `displayStudentInfo()` for every record. The input and display loops are correctly separated.                                                                                        |
+| **Structure Pointer & Dynamic Access**     |       3       |        **3**       | **Excellent.** The pointer implementation correctly declares a structure pointer, points it to a structure object using `ptr = &std`, assigns all required members through the `->` operator, and calls `displayStudentInfo()` through the pointer. This satisfies the pointer-based access requirement.                                                              |
+| **Input, Output & Execution**              |       3       |        **3**       | **Excellent.** The three required implementations are logically complete and compile successfully. The array version handles multiple records, the single-structure version displays an assigned record, and the pointer version accepts and displays data through the structure pointer.                                                                             |
 
 ---
 
 ### 📈 **Summary of Results**
 
-* **Core Rubric Score:** **11 / 12**
+* **Core Rubric Score:** **12 / 12**
 * **Plagiarism Penalty:** **0 Marks**
-* **Final Marks:** **11 / 12 (91.67%)**
+* **Final Marks:** **12 / 12 (100.0%)**
 * **Grade Status:** **Excellent**
 
 ---
@@ -29,16 +29,20 @@
 ### ⚠️ **Plagiarism Audit Detail**
 
 > **No plagiarism penalty applied.**
-> The submitted files were evaluated against the Lab 1 requirements. No comparison submission was provided for this evaluation, so a 100% code-match determination cannot be established from the available materials. The Lab 1 policy specifies a **-3 mark penalty** when a student's code is found to be 100% identical to another student's code.
+> The submitted files were evaluated against the Lab 1 requirements. No comparison submission was provided for this evaluation, so a 100% code-match determination cannot be established from the available materials. The Lab 1 policy specifies a **-3 mark penalty** when a student's code is found to be plagiarized or matching 100% with another student's code.
 
 ---
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Shahnza,** your Lab 1 submission demonstrates a **strong understanding of structures, arrays of structures, and structure pointers**. All three tasks implement the main requirements successfully.
+**Dear Ammar,** your submission demonstrates an **excellent understanding of structures, arrays of structures, and structure pointers**.
 
-Task 3 is functionally correct in its use of dynamic allocation and pointer-based member access. However, after allocating memory using `new Student`, the program does not release that memory using `delete`. This should be corrected to avoid a **memory leak**.
+All three required implementations are present. The single-structure implementation correctly assigns and displays a student record. The array implementation correctly accepts multiple students and displays all records. The pointer implementation correctly demonstrates structure-pointer access using the `->` operator.
 
-Also, Task 2 uses a variable-length array (`Student students[n]`), which is not standard C++ and may cause portability issues with strict C++ compilers. A fixed-size array or dynamic allocation would be preferable.
+The files were presented in a different order than the task sequence, but the required three concepts are all present and correctly implemented, so **no marks are deducted for file ordering**.
 
-**Overall performance: Excellent — 11/12.**
+An additional fourth code snippet was also provided. It appears to be another attempt at Task 1/Task 2, but it is not needed because the required three implementations are already complete. It should not affect the core rubric score.
+
+One minor technical observation is that the structure is named `student` rather than `Student`. This does not affect functionality and does not warrant a deduction under the supplied rubric.
+
+**Overall performance: Excellent — 12/12.**
