@@ -20,16 +20,16 @@
 ### 📈 **Summary of Results**
 
 * **Core Rubric Score:** **12 / 12**
-* **Plagiarism Penalty:** **0 Marks**
-* **Final Marks:** **12 / 12 (100.0%)**
-* **Grade Status:** **Passed (Excellent Performance)**
+* **Plagiarism Penalty:** **-3 Marks**
+* **Final Marks:** **9 / 12 (75.0%)**
+* **Grade Status:** **Passed**
 
 ---
 
 ### ⚠️ **Plagiarism Audit Detail**
 
-> **No plagiarism penalty applied.**  
-> Lab 5 is lenient on plagiarism.
+> **Plagiarism penalty applied (-3 marks).**  
+> Warning: All 4 task files are 100% identical matches (excluding spacing/comments) with student `2024-SE-27` (Muhammad Arslan) and partially match `2025-SE-05`.
 
 ---
 
