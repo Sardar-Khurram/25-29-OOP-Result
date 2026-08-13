@@ -17,8 +17,16 @@
 ---
 
 ### 📈 **Summary of Results**
-* **Total Marks:** **11 / 12 (91.7%)**
-* **Grade Status:** **Passed with feedback**
+* **Core Rubric Score:** **11 / 12**
+* **Plagiarism Penalty:** **-3 Marks** *(100% identical code match with student `2025-SE-22`)*
+* **Final Marks:** **8 / 12 (66.7%)**
+* **Grade Status:** **Plagiarism Penalty (-3)**
+
+---
+
+### ⚠️ **Plagiarism Audit Detail**
+> [!WARNING]
+> Manual inspection detected a **100% character-for-character code match** across all 4 tasks between your `Lab 04 (constructors)` files and student `2025-SE-22` (Noor Ul Ain Abbasi)'s submission files. Per course policy, a flat **-3 marks penalty** has been applied to both submissions.
 
 ### 💬 **Overall Teacher Remarks**
-Dear Wajeeha, Great submission for Lab 4! All four tasks are written cleanly and function properly. Remember to capitalize class names (`Employee`, `BankAccount`) following standard C++ naming conventions. Well done!
+Dear Wajeeha, Your core implementation is working, but please write your code independently. Duplicate submissions result in heavy plagiarism penalties. Also, capitalize class names (`Employee`, `BankAccount`) according to standard C++ conventions.

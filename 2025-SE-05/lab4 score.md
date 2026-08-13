@@ -17,8 +17,16 @@
 ---
 
 ### 📈 **Summary of Results**
-* **Total Marks:** **12 / 12 (100%)**
-* **Grade Status:** **Passed (Full Marks)**
+* **Core Rubric Score:** **12 / 12**
+* **Plagiarism Penalty:** **-3 Marks** *(100% identical code match with student `2024-SE-18`)*
+* **Final Marks:** **9 / 12 (75.0%)**
+* **Grade Status:** **Plagiarism Penalty (-3)**
+
+---
+
+### ⚠️ **Plagiarism Audit Detail**
+> [!WARNING]
+> Manual inspection detected a **100% character-for-character code match** across Tasks 2, 3, and 4 between your `LAB 04` files and student `2024-SE-18` (Syed Abdul Rehman)'s submission files. Per course policy, a flat **-3 marks penalty** has been applied to both submissions.
 
 ### 💬 **Overall Teacher Remarks**
-Dear Ali Zain-Ul-Abdin, Outstanding submission for Lab 4! Your code is clean, well-structured, and formatted with custom output banners. All constructor and destructor requirements are met flawlessly. Excellent work!
+Dear Ali Zain-Ul-Abdin, Your core implementation is fully working, but please write your code independently. Duplicate submissions result in heavy plagiarism penalties.
