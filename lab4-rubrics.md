@@ -78,3 +78,16 @@ Inside your `main()` function:
 * Understand when destructors are called.
 * Practice creating objects on stack and heap.
 * Learn the importance of managing memory and cleanup.
+
+
+| **Criteria**                       | **Excellent (3)**                                                                                                      | **Good (2)**                                                                        | **Need Improvement (1)**                                                        | **Poor (0)**                                                      |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| **Constructor Implementation**     | Default and parameterized constructors are implemented correctly with all required initializations.                    | Constructors are implemented with minor syntax or initialization issues.            | Constructors are incomplete or have significant initialization errors.          | Constructors are not implemented or completely incorrect.         |
+| **Constructor Overloading**        | All required constructor versions are correctly overloaded and used with appropriate objects.                          | Most constructor versions are correct with minor errors in implementation or usage. | Some constructors are missing or incorrectly overloaded/used.                   | Constructor overloading is not attempted or completely incorrect. |
+| **Destructor & Object Management** | Destructor works correctly; stack and heap objects are created and released properly using `{ }`, `new`, and `delete`. | Destructor and object management mostly work with minor errors.                     | Destructor or stack/heap object management is partially implemented or unclear. | Destructor is missing or memory/object management is incorrect.   |
+| **Output & Execution**             | All programs compile and run correctly, displaying the required output clearly for all tasks.                          | Programs mostly run correctly with minor output or execution issues.                | Programs partially run or output is incomplete/unclear.                         | Code does not run or required output is missing.                  |
+
+
+
+### **Plagiarism Policy**
+* **Copied Code Check:** If a student's code is found to be plagiarized or 100% identical to another student's submission, a flat penalty of **3 marks** will be deducted from their total score.
