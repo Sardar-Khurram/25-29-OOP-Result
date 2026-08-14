@@ -35,7 +35,7 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Abdullah,** your Lab 1 submission demonstrates a **strong understanding of structures, arrays of structures, and structure pointers**.
+**Dear Muhammad,** your Lab 1 submission demonstrates a **strong understanding of structures, arrays of structures, and structure pointers**.
 
 Task 1 correctly defines the required student information and successfully displays it. The main issue is that the assignment specifically requires the member function:
 

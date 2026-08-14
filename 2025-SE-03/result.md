@@ -1,6 +1,6 @@
 # Lab 2 Evaluation Report (All Tasks)
 **Student Roll Number:** 2025-SE-03  
-**Student Name:** Muhammad Zain Mughal  
+**Student Name:** Muhammad Zain Mughal
 
 ---
 
@@ -37,7 +37,7 @@ The main drawback is that you forgot to implement the test code for Task 3—you
 
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-03  
-**Student Name:** Muhammad Zain Mughal  
+**Student Name:** Muhammad Zain Mughal
 
 ---
 

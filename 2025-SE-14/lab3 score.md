@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-14  
-**Student Name:** Komal Shafique  
+**Student Name:** Komal Shafique
 **Task Folder Location:** `Lab 3\Product.h & Main.cpp`  
 
 ---

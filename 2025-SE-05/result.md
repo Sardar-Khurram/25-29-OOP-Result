@@ -1,6 +1,6 @@
 # Lab 2 Evaluation Report (All Tasks)
 **Student Roll Number:** 2025-SE-05  
-**Student Name:** Ali Zain-Ul-Abdin  
+**Student Name:** Ali Zain-Ul-Abdin
 
 ---
 
@@ -39,7 +39,7 @@ All of your files compile and run successfully. The only minor things to watch o
 
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-05  
-**Student Name:** Ali Zain-Ul-Abdin  
+**Student Name:** Ali Zain-Ul-Abdin
 
 ---
 

@@ -35,7 +35,7 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Muhammad Arslan,** your submission demonstrates a **strong understanding of structures, arrays of structures, and structure pointers**.
+**Dear Muhammad,** your submission demonstrates a **strong understanding of structures, arrays of structures, and structure pointers**.
 
 Task 1 is functionally correct, but the member-function design does not exactly match the requirement. The task asks for:
 

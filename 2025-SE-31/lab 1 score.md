@@ -35,7 +35,7 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Khawaja Absar,** your Lab 1 submission demonstrates a **strong understanding of structures, arrays of structures, and structure pointers**. Tasks 2 and 3 satisfy the required functionality and were successfully compiled and executed.
+**Dear Khawaja,** your Lab 1 submission demonstrates a **strong understanding of structures, arrays of structures, and structure pointers**. Tasks 2 and 3 satisfy the required functionality and were successfully compiled and executed.
 
 The main issue is in **Task 1**. The assignment specifically requires a member function named:
 

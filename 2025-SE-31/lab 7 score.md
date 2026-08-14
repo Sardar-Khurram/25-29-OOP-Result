@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Mubashir,** your Lab 7 submission demonstrates your understanding of composition (strong ownership) and aggregation (shared references) in C++.
+**Dear Khawaja,** your Lab 7 submission demonstrates your understanding of composition (strong ownership) and aggregation (shared references) in C++.
 *Warning: Copying code from other students violates class policies. Please ensure you write your own solutions for future labs.*

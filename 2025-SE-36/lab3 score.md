@@ -23,4 +23,4 @@
 * **Grade Status:** **Excellent**
 
 ### 💬 **Overall Teacher Remarks**
-Dear Student, Great submission for Lab 3! Your class encapsulation, setter validation logic, and test driver execution are written cleanly. Remember to capitalize class names (`Product`) according to standard C++ naming conventions. Well done!
+Dear Tanzeela, Great submission for Lab 3! Your class encapsulation, setter validation logic, and test driver execution are written cleanly. Remember to capitalize class names (`Product`) according to standard C++ naming conventions. Well done!

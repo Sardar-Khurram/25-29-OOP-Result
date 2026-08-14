@@ -1,7 +1,7 @@
 # Lab 8 Evaluation Report (Polymorphism & Virtual Functions)
 
 **Student Roll Number:** 2025-SE-42
-**Student Name:** Wajiha batool
+**Student Name:** Muhammad Arif
 **Task Folder Location:** `N/A`
 
 ---
@@ -35,4 +35,4 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Wajiha,** your Lab 8 submission is missing from your repository. Please upload your complete Lab 8 runtime polymorphism tasks to receive evaluation.
+**Dear Muhammad,** your Lab 8 submission is missing from your repository. Please upload your complete Lab 8 runtime polymorphism tasks to receive evaluation.

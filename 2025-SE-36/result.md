@@ -1,7 +1,7 @@
 # Lab 2 Evaluation Report (All Tasks)
 
 **Student Roll Number:** 2025-SE-36  
-**Student Name:** Hamza Ali  
+**Student Name:** Tanzeela Rehman
 
 ### Evaluation Rubric Table
 

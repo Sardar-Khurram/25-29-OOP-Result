@@ -1,7 +1,7 @@
 # Lab 6 Evaluation Report (Constructor Chaining & Destructors)
 
 **Student Roll Number:** 2025-SE-40
-**Student Name:** Syeda Tanzeela Gillani
+**Student Name:** Danish Iqbal
 **Task Folder Location:** `LAB 06 Inheritance Using Constructor\`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Syeda,** your Lab 6 submission demonstrates your understanding of constructor chaining and destructors in C++.
+**Dear Danish,** your Lab 6 submission demonstrates your understanding of constructor chaining and destructors in C++.
 *Warning: Copying code from other students violates class policies. Please ensure you write your own solutions for future labs.*

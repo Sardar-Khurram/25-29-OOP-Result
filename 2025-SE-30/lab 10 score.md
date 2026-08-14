@@ -1,7 +1,7 @@
 # Lab 10 Evaluation Report (File Handling in C++)
 
 **Student Roll Number:** 2025-SE-30
-**Student Name:** Saad
+**Student Name:** Malik Waqar Latif
 **Task Folder Location:** `Lab 9\ (Swapped folder)`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Saad,** your Lab 10 submission demonstrates your understanding of C++ file stream handling, reading, writing, and resource management.
+**Dear Malik,** your Lab 10 submission demonstrates your understanding of C++ file stream handling, reading, writing, and resource management.
 

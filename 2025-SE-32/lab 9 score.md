@@ -1,7 +1,7 @@
 # Lab 9 Evaluation Report (Operator Overloading ==)
 
 **Student Roll Number:** 2025-SE-32
-**Student Name:** Muhammad Salman
+**Student Name:** Laiba Imtiaz
 **Task Folder Location:** `N/A`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Muhammad,** your Lab 9 submission is missing from your repository. Please upload your complete Lab 9 operator overloading tasks to receive evaluation.
+**Dear Laiba,** your Lab 9 submission is missing from your repository. Please upload your complete Lab 9 operator overloading tasks to receive evaluation.
 

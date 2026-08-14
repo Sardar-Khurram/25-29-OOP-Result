@@ -1,7 +1,7 @@
 # Lab 8 Evaluation Report (Polymorphism & Virtual Functions)
 
 **Student Roll Number:** 2025-SE-41
-**Student Name:** Aliza
+**Student Name:** Abdul Jalal Kazmi
 **Task Folder Location:** `N/A`
 
 ---
@@ -35,4 +35,4 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Aliza,** your Lab 8 submission is missing from your repository. Please upload your complete Lab 8 runtime polymorphism tasks to receive evaluation.
+**Dear Abdul,** your Lab 8 submission is missing from your repository. Please upload your complete Lab 8 runtime polymorphism tasks to receive evaluation.

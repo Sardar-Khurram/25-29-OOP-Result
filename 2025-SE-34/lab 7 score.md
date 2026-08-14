@@ -1,7 +1,7 @@
 # Lab 7 Evaluation Report (Composition & Aggregation)
 
 **Student Roll Number:** 2025-SE-34
-**Student Name:** Zuhaib Ahmad
+**Student Name:** Niqash Ali
 **Task Folder Location:** `OOP\Week 7\`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Zuhaib,** your Lab 7 submission demonstrates your understanding of composition (strong ownership) and aggregation (shared references) in C++.
+**Dear Niqash,** your Lab 7 submission demonstrates your understanding of composition (strong ownership) and aggregation (shared references) in C++.
 *Warning: Copying code from other students violates class policies. Please ensure you write your own solutions for future labs.*

@@ -1,6 +1,6 @@
 # Lab 2 Evaluation Report (All Tasks)
 **Student Roll Number:** 2025-SE-04  
-**Student Name:** Wajeeha Batool  
+**Student Name:** Wajeeha Batool
 
 ---
 
@@ -40,7 +40,7 @@ To improve your programming practices, keep the following in mind:
 
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-04  
-**Student Name:** Wajeeha Batool  
+**Student Name:** Wajeeha Batool
 
 ---
 

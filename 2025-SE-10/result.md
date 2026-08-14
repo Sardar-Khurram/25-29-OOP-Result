@@ -1,6 +1,6 @@
 # Lab 2 Evaluation Report (All Tasks)
 **Student Roll Number:** 2025-SE-10  
-**Student Name:** Misbah Khurshid  
+**Student Name:** Misbah Khurshid
 
 ---
 
@@ -37,7 +37,7 @@ Please note the mathematical formula error in your Rectangle's perimeter method:
 
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-10  
-**Student Name:** Misbah Khurshid  
+**Student Name:** Misbah Khurshid
 
 ---
 

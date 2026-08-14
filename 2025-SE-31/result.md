@@ -1,6 +1,6 @@
 # Lab 2 Evaluation Report (All Tasks)
 **Student Roll Number:** 2025-SE-31  
-**Student Name:** Mubashir Ali  
+**Student Name:** Khawaja Absar Ali
 
 ---
 
@@ -30,7 +30,7 @@
 ---
 
 ### **Overall Teacher Remarks**
-Dear Mubashir,
+Dear Khawaja,
 
 Your code successfully compiles and executes across all 5 lab tasks, demonstrating functional understanding of class structures and member function scoping.
 

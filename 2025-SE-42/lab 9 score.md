@@ -1,7 +1,7 @@
 # Lab 9 Evaluation Report (Operator Overloading ==)
 
 **Student Roll Number:** 2025-SE-42
-**Student Name:** Wajiha batool
+**Student Name:** Muhammad Arif
 **Task Folder Location:** `N/A`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Wajiha,** your Lab 9 submission is missing from your repository. Please upload your complete Lab 9 operator overloading tasks to receive evaluation.
+**Dear Muhammad,** your Lab 9 submission is missing from your repository. Please upload your complete Lab 9 operator overloading tasks to receive evaluation.
 

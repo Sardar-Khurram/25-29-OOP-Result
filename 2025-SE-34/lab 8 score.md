@@ -1,7 +1,7 @@
 # Lab 8 Evaluation Report (Polymorphism & Virtual Functions)
 
 **Student Roll Number:** 2025-SE-34
-**Student Name:** Zuhaib Ahmad
+**Student Name:** Niqash Ali
 **Task Folder Location:** `OOP\Week 8\`
 
 ---
@@ -35,4 +35,4 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Zuhaib,** your Lab 8 submission demonstrates your understanding of runtime polymorphism and virtual functions in C++.
+**Dear Niqash,** your Lab 8 submission demonstrates your understanding of runtime polymorphism and virtual functions in C++.

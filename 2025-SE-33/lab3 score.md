@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-33  
-**Student Name:** Rohail Abbas  
+**Student Name:** Rohail Abbas
 **Task Folder Location:** `LAB 3 TASK1.cpp`  
 
 ---

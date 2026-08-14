@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-40  
-**Student Name:** Danish Iqbal  
+**Student Name:** Danish Iqbal
 **Task Folder Location:** `LAB 03 Encapsulation\Product.h & main.cpp`  
 
 ---
@@ -31,4 +31,4 @@
 > Manual inspection detected a **100% character-for-character code match** between your `LAB 03 Encapsulation\Product.h` & `main.cpp` and student `2025-SE-42` (Abdullah Khan)'s submission files in `LAB 03`. Per course policy, a flat **-5 marks penalty** has been applied to both submissions.
 
 ### 💬 **Overall Teacher Remarks**
-Dear Student, Please write your code independently. Submitting duplicate code results in heavy plagiarism penalties. Also, fix your setter validation logic: do not assign values unconditionally before checking `if(condition)`, and print error messages when inputs are invalid (`if (a.empty())`), not when they are valid.
+Dear Danish, Please write your code independently. Submitting duplicate code results in heavy plagiarism penalties. Also, fix your setter validation logic: do not assign values unconditionally before checking `if(condition)`, and print error messages when inputs are invalid (`if (a.empty())`), not when they are valid.

@@ -1,7 +1,7 @@
 # Lab 10 Evaluation Report (File Handling in C++)
 
 **Student Roll Number:** 2025-SE-40
-**Student Name:** Syeda Tanzeela Gillani
+**Student Name:** Danish Iqbal
 **Task Folder Location:** `LAB 10 File Handling\`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Syeda,** your Lab 10 submission demonstrates your understanding of C++ file stream handling, reading, writing, and resource management.
+**Dear Danish,** your Lab 10 submission demonstrates your understanding of C++ file stream handling, reading, writing, and resource management.
 

@@ -9,7 +9,7 @@ This master summary compiles the evaluation results for **Lab 9 (Operator Overlo
 | 2024-SE-05 | Qurat-Ul-ain Fatima | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
 | 2024-SE-08 | Syed Ahmed Gillani | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
 | 2024-SE-12 | Adeela Bashir | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
-| 2024-SE-18 | Syed Abdul Rehman | `LAB#09\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
+| 2024-SE-18 | Syed Abdul Rehman Naseem | `LAB#09\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
 | 2024-SE-23 | Muqaddas Kiani | `week9\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
 | 2024-SE-27 | Muhammad Arslan | `Lab#09\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
 | 2024-SE-28 | Raja Wajihullah Khan | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
@@ -30,24 +30,24 @@ This master summary compiles the evaluation results for **Lab 9 (Operator Overlo
 | 2025-SE-13 | Areeba Taqdees Mir | `WEEK 9\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
 | 2025-SE-14 | Komal Shafique | `Lab 9\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
 | 2025-SE-15 | Samia Arshad | `Week 9\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
-| 2025-SE-16 | Mubashir Ali | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
+| 2025-SE-16 | Ihtisham Hussain Raja | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
 | 2025-SE-17 | Muqaddas Majeed | `oop lab 9\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
 | 2025-SE-18 | Tahreem Rasheed | `Friend function\` | 3 | 3 | 0 | 2 | 8 | 0 | **8 / 12** | Passed (Good) |
 | 2025-SE-21 | Noor Fatima Kiani | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
 | 2025-SE-22 | Noor Ul Ain Abbasi | `Lab 09(operator overloding)\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
 | 2025-SE-28 | Syed Fasih UL Hassan Gardezi | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
 | 2025-SE-29 | Shiza Mukhtar | `Lab 10 tasks\ (Swapped folder)` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
-| 2025-SE-30 | Saad | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
+| 2025-SE-30 | Malik Waqar Latif | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
 | 2025-SE-31 | Khawaja Absar Ali | `LAB-TASKS\LAB-09\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
-| 2025-SE-32 | Muhammad Salman | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
+| 2025-SE-32 | Laiba Imtiaz | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
 | 2025-SE-33 | Rohail Abbas | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
-| 2025-SE-34 | Zuhaib Ahmad | `OOP\Week 9\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
+| 2025-SE-34 | Niqash Ali | `OOP\Week 9\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
 | 2025-SE-35 | Muhammad Zakarya | `Week 9\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
-| 2025-SE-36 | Muhammad Zakria | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
-| 2025-SE-38 | Muhammad Tayyab | `Lab No 09\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
-| 2025-SE-40 | Syeda Tanzeela Gillani | `LAB 09 Polymorphism (Static Binding)\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
-| 2025-SE-41 | Aliza | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
-| 2025-SE-42 | Wajiha batool | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
+| 2025-SE-36 | Tanzeela Rehman | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
+| 2025-SE-38 | Ammar Yasir | `Lab No 09\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
+| 2025-SE-40 | Danish Iqbal | `LAB 09 Polymorphism (Static Binding)\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
+| 2025-SE-41 | Abdul Jalal Kazmi | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
+| 2025-SE-42 | Muhammad Arif | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
 
 ---
 ### 🔑 **Rubric Criteria Key:**
@@ -70,7 +70,7 @@ This master summary compiles the evaluation results for **Lab 9 (Operator Overlo
   - *Folder Location:* `N/A`
   - *Audit Details:* Class Definition & Data Members (0/3): Absent.; Constructor Implementation (0/3): Absent.; == Operator Overloading (0/3): Absent.; Object Usage, Output & Execution (0/3): Absent.
 
-* **2024-SE-18 - Syed Abdul Rehman** (Final: **9/12**):
+* **2024-SE-18 - Syed Abdul Rehman Naseem** (Final: **9/12**):
   - *Folder Location:* `LAB#09\`
   - *Audit Details:* Plagiarism Penalty: **Plagiarism Penalty of **-3 marks** applied.**
  Source code file is an exact raw byte-for-byte copy-match (including formatting, tab indentations, checkEqual helper method, and comments) with students `2024-SE-27` and `2024-SE-33`.
@@ -133,7 +133,7 @@ This master summary compiles the evaluation results for **Lab 9 (Operator Overlo
   - *Audit Details:* Plagiarism Penalty: **Plagiarism Penalty of **-3 marks** applied.**
  Source code file is an exact raw byte-for-byte copy-match (including formatting, display helper function, multiple test cases, and comments) with student `2025-SE-06` (Maryam Jamil).
 
-* **2025-SE-16 - Mubashir Ali** (Final: **0/12**):
+* **2025-SE-16 - Ihtisham Hussain Raja** (Final: **0/12**):
   - *Folder Location:* `N/A`
   - *Audit Details:* Class Definition & Data Members (0/3): Absent.; Constructor Implementation (0/3): Absent.; == Operator Overloading (0/3): Absent.; Object Usage, Output & Execution (0/3): Absent.
 
@@ -158,7 +158,7 @@ This master summary compiles the evaluation results for **Lab 9 (Operator Overlo
   - *Folder Location:* `Lab 10 tasks\ (Swapped folder)`
   - *Audit Details:* Full Marks. Flawless implementation.
 
-* **2025-SE-30 - Saad** (Final: **0/12**):
+* **2025-SE-30 - Malik Waqar Latif** (Final: **0/12**):
   - *Folder Location:* `N/A`
   - *Audit Details:* Class Definition & Data Members (0/3): Absent.; Constructor Implementation (0/3): Absent.; == Operator Overloading (0/3): Absent.; Object Usage, Output & Execution (0/3): Absent.
 
@@ -167,7 +167,7 @@ This master summary compiles the evaluation results for **Lab 9 (Operator Overlo
   - *Audit Details:* Plagiarism Penalty: **Plagiarism Penalty of **-3 marks** applied.**
  Source code file shares an identical template structure (including the checkEqual helper method calling *this == d and identical main flow) with students `2024-SE-18`, `2024-SE-27`, `2024-SE-33`, `2025-SE-10`, and `2025-SE-13`.
 
-* **2025-SE-32 - Muhammad Salman** (Final: **0/12**):
+* **2025-SE-32 - Laiba Imtiaz** (Final: **0/12**):
   - *Folder Location:* `N/A`
   - *Audit Details:* Class Definition & Data Members (0/3): Absent.; Constructor Implementation (0/3): Absent.; == Operator Overloading (0/3): Absent.; Object Usage, Output & Execution (0/3): Absent.
 
@@ -175,7 +175,7 @@ This master summary compiles the evaluation results for **Lab 9 (Operator Overlo
   - *Folder Location:* `N/A`
   - *Audit Details:* Class Definition & Data Members (0/3): Absent.; Constructor Implementation (0/3): Absent.; == Operator Overloading (0/3): Absent.; Object Usage, Output & Execution (0/3): Absent.
 
-* **2025-SE-34 - Zuhaib Ahmad** (Final: **9/12**):
+* **2025-SE-34 - Niqash Ali** (Final: **9/12**):
   - *Folder Location:* `OOP\Week 9\`
   - *Audit Details:* Plagiarism Penalty: **Plagiarism Penalty of **-3 marks** applied.**
  Source code file is an exact raw byte-for-byte copy-match (including formatting, comments, and variable naming) with student `2025-SE-35` (Muhammad Zakarya).
@@ -185,15 +185,15 @@ This master summary compiles the evaluation results for **Lab 9 (Operator Overlo
   - *Audit Details:* Plagiarism Penalty: **Plagiarism Penalty of **-3 marks** applied.**
  Source code file is an exact raw byte-for-byte copy-match (including formatting, comments, and variable naming) with student `2025-SE-34` (Zuhaib Ahmad).
 
-* **2025-SE-36 - Muhammad Zakria** (Final: **0/12**):
+* **2025-SE-36 - Tanzeela Rehman** (Final: **0/12**):
   - *Folder Location:* `N/A`
   - *Audit Details:* Class Definition & Data Members (0/3): Absent.; Constructor Implementation (0/3): Absent.; == Operator Overloading (0/3): Absent.; Object Usage, Output & Execution (0/3): Absent.
 
-* **2025-SE-41 - Aliza** (Final: **0/12**):
+* **2025-SE-41 - Abdul Jalal Kazmi** (Final: **0/12**):
   - *Folder Location:* `N/A`
   - *Audit Details:* Class Definition & Data Members (0/3): Absent.; Constructor Implementation (0/3): Absent.; == Operator Overloading (0/3): Absent.; Object Usage, Output & Execution (0/3): Absent.
 
-* **2025-SE-42 - Wajiha batool** (Final: **0/12**):
+* **2025-SE-42 - Muhammad Arif** (Final: **0/12**):
   - *Folder Location:* `N/A`
   - *Audit Details:* Class Definition & Data Members (0/3): Absent.; Constructor Implementation (0/3): Absent.; == Operator Overloading (0/3): Absent.; Object Usage, Output & Execution (0/3): Absent.
 
@@ -201,7 +201,7 @@ This master summary compiles the evaluation results for **Lab 9 (Operator Overlo
 
 A flat **-3 marks plagiarism penalty** has been applied to students sharing 100% matched code structures:
 
-1. **Syed Abdul Rehman (2024-SE-18)**, **Muhammad Arslan (2024-SE-27)**, **Momna Imran (2024-SE-33)**, **Areeba Taqdees Mir (2025-SE-13)**, & **Khawaja Absar Ali (2025-SE-31)**
+1. **Syed Abdul Rehman Naseem (2024-SE-18)**, **Muhammad Arslan (2024-SE-27)**, **Momna Imran (2024-SE-33)**, **Areeba Taqdees Mir (2025-SE-13)**, & **Khawaja Absar Ali (2025-SE-31)**
    - Shared template implementation featuring the `checkEqual(Distance d)` member method evaluating `*this == d` and identical main flow.
 
 2. **Wajeeha Batool (2025-SE-04)** & **Noor Ul Ain Abbasi (2025-SE-22)**
@@ -210,5 +210,5 @@ A flat **-3 marks plagiarism penalty** has been applied to students sharing 100%
 3. **Maryam Jamil (2025-SE-06)** & **Komal Shafique (2025-SE-14)**
    - 100% exact raw byte-for-byte copy match across all lines, display helper function, test cases, and formatting.
 
-4. **Zuhaib Ahmad (2025-SE-34)** & **Muhammad Zakarya (2025-SE-35)**
+4. **Niqash Ali (2025-SE-34)** & **Muhammad Zakarya (2025-SE-35)**
    - 100% exact raw byte-for-byte copy match across all lines and formatting.

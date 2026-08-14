@@ -1,6 +1,6 @@
 # Lab 2 Evaluation Report (All Tasks)
 **Student Roll Number:** 2024-SE-05  
-**Student Name:** Abuzar  
+**Student Name:** Qurat-Ul-ain Fatima
 
 ---
 
@@ -30,7 +30,7 @@
 ---
 
 ### **Overall Teacher Remarks**
-Dear Abuzar,
+Dear Qurat-Ul-ain,
 
 Your Lab 2 assignment files were submitted inside the folder named `lab 1`. All 5 header files compile cleanly and follow proper Object-Oriented Programming scoping rules (defining functions outside using `::`).
 

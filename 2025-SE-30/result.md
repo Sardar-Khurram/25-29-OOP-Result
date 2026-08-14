@@ -1,6 +1,6 @@
 # Lab 2 Evaluation Report (All Tasks)
 **Student Roll Number:** 2025-SE-30
-**Student Name:** Saad
+**Student Name:** Malik Waqar Latif
 
 ---
 

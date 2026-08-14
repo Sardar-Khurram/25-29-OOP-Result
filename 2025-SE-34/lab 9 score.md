@@ -1,7 +1,7 @@
 # Lab 9 Evaluation Report (Operator Overloading ==)
 
 **Student Roll Number:** 2025-SE-34
-**Student Name:** Zuhaib Ahmad
+**Student Name:** Niqash Ali
 **Task Folder Location:** `OOP\Week 9\`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Zuhaib,** your Lab 9 submission demonstrates your understanding of C++ operator overloading and member function comparison.
+**Dear Niqash,** your Lab 9 submission demonstrates your understanding of C++ operator overloading and member function comparison.
 *Warning: Copying code from other students violates class policies. Please ensure you write your own solutions for future labs.*

@@ -1,6 +1,6 @@
 # Lab 2 Evaluation Report (All Tasks)
 **Student Roll Number:** 2025-SE-01  
-**Student Name:** Syeda Mariam Gillani  
+**Student Name:** Syeda Mariam Gillani
 
 ---
 
@@ -32,7 +32,7 @@ Your code compiles cleanly, runs correctly, and perfectly matches the structural
 
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-01  
-**Student Name:** Syeda Mariam Gillani  
+**Student Name:** Syeda Mariam Gillani
 
 ---
 

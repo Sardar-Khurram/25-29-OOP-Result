@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2024-SE-12  
-**Student Name:** Adeela Bashir  
+**Student Name:** Adeela Bashir
 **Task Folder Location:** `week 4 tasks\online shopping system.cpp & lab 3\`  
 
 ---

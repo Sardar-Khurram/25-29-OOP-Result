@@ -35,7 +35,7 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Raja Wajihullah,** your submission demonstrates a **strong understanding of structures, arrays of structures, and structure pointers**.
+**Dear Raja,** your submission demonstrates a **strong understanding of structures, arrays of structures, and structure pointers**.
 
 Task 1 is functionally correct, but the member-function design differs slightly from the required specification. The assignment asks for:
 

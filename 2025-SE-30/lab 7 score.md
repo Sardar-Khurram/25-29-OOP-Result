@@ -1,7 +1,7 @@
 # Lab 7 Evaluation Report (Composition & Aggregation)
 
 **Student Roll Number:** 2025-SE-30
-**Student Name:** Saad
+**Student Name:** Malik Waqar Latif
 **Task Folder Location:** `Lab 6\ (Swapped folder)`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Saad,** your Lab 7 submission demonstrates your understanding of composition (strong ownership) and aggregation (shared references) in C++.
+**Dear Malik,** your Lab 7 submission demonstrates your understanding of composition (strong ownership) and aggregation (shared references) in C++.
 

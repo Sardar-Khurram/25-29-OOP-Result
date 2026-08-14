@@ -35,7 +35,7 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Noor Ul Ain,** your submission demonstrates a **good understanding of structures, arrays of structures, and structure pointers**, and all three programs are broadly functional.
+**Dear Noor,** your submission demonstrates a **good understanding of structures, arrays of structures, and structure pointers**, and all three programs are broadly functional.
 
 The main issues are related to following the specification precisely.
 

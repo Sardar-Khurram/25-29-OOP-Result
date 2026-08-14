@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2024-SE-18  
-**Student Name:** Syed Abdul Rehman  
+**Student Name:** Syed Abdul Rehman Naseem
 **Task Folder Location:** `LAB#03\product.h & main.cpp`  
 
 ---

@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2024-SE-30  
-**Student Name:** Maryam Shaheen  
+**Student Name:** Maryam shaheen
 **Task Folder Location:** `week 4 tasks & lab 3\`  
 
 ---

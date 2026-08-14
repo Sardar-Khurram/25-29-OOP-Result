@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-41  
-**Student Name:** Abdul Jalal Kazmi  
+**Student Name:** Abdul Jalal Kazmi
 **Task Folder Location:** `N/A (Empty Repository)`  
 
 ---

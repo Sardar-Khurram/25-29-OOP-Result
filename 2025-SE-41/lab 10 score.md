@@ -1,7 +1,7 @@
 # Lab 10 Evaluation Report (File Handling in C++)
 
 **Student Roll Number:** 2025-SE-41
-**Student Name:** Aliza
+**Student Name:** Abdul Jalal Kazmi
 **Task Folder Location:** `N/A`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Aliza,** your Lab 10 submission is missing from your repository. Please upload your complete Lab 10 File Handling tasks to receive evaluation.
+**Dear Abdul,** your Lab 10 submission is missing from your repository. Please upload your complete Lab 10 File Handling tasks to receive evaluation.
 

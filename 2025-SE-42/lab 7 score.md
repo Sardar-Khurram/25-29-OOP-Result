@@ -1,7 +1,7 @@
 # Lab 7 Evaluation Report (Composition & Aggregation)
 
 **Student Roll Number:** 2025-SE-42
-**Student Name:** Wajiha batool
+**Student Name:** Muhammad Arif
 **Task Folder Location:** `LAB 07\`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Wajiha,** your Lab 7 submission demonstrates your understanding of composition (strong ownership) and aggregation (shared references) in C++.
+**Dear Muhammad,** your Lab 7 submission demonstrates your understanding of composition (strong ownership) and aggregation (shared references) in C++.
 *Warning: Copying code from other students violates class policies. Please ensure you write your own solutions for future labs.*

@@ -1,7 +1,7 @@
 # Lab 7 Evaluation Report (Composition & Aggregation)
 
 **Student Roll Number:** 2025-SE-38
-**Student Name:** Muhammad Tayyab
+**Student Name:** Ammar Yasir
 **Task Folder Location:** `Lab No 07\ (Named as .cpp.txt)`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Muhammad,** your Lab 7 submission demonstrates your understanding of composition (strong ownership) and aggregation (shared references) in C++.
+**Dear Ammar,** your Lab 7 submission demonstrates your understanding of composition (strong ownership) and aggregation (shared references) in C++.
 

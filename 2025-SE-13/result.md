@@ -1,6 +1,6 @@
 # Lab 2 Evaluation Report (All Tasks)
 **Student Roll Number:** 2025-SE-13  
-**Student Name:** Areeba Taqdees Mir  
+**Student Name:** Areeba Taqdees Mir
 
 ---
 
@@ -47,7 +47,7 @@ Your final mark for Lab 2 is **8/12**.
 
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-13  
-**Student Name:** Areeba Taqdees Mir  
+**Student Name:** Areeba Taqdees Mir
 
 ---
 

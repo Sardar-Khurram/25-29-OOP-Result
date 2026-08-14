@@ -1,7 +1,7 @@
 # Lab 5 Evaluation Report (Inheritance)
 
 **Student Roll Number:** 2025-SE-32
-**Student Name:** Muhammad Salman
+**Student Name:** Laiba Imtiaz
 **Task Folder Location:** `Lab5\`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Muhammad,** your Lab 5 submission structurally demonstrates inheritance concepts in C++. 
+**Dear Laiba,** your Lab 5 submission structurally demonstrates inheritance concepts in C++. 
 

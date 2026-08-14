@@ -1,7 +1,7 @@
 # Lab 2 Evaluation Report (All Tasks)
 
 **Student Roll Number:** 2025-SE-38  
-**Student Name:** Usama Bin Iftikhar  
+**Student Name:** Ammar Yasir
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### Overall Teacher Remarks
 
-Dear Usama,
+Dear Ammar,
 
 Your Lab 2 submission demonstrates a solid understanding of object-oriented concepts, including class definitions, attribute declarations, and function scoping rules (inline inside definitions vs. outside definitions using the `::` scope resolution operator). All 5 tasks compile successfully and no plagiarism was detected.
 

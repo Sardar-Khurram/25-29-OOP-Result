@@ -1,7 +1,7 @@
 # Lab 1 Evaluation Report (Structures & Pointers)
 
 **Student Roll Number:** 2024-SE-18
-**Student Name:** Syed Abdul Rehman
+**Student Name:** Syed Abdul Rehman Naseem
 **Task Folder Location:** `Lab-01\Task-01.cpp` to `Task-03.cpp`
 
 ---
@@ -35,7 +35,7 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Syed Abdul Rehman,** your Lab 1 submission demonstrates a **strong understanding of structures, arrays of structures, and structure pointers**.
+**Dear Syed,** your Lab 1 submission demonstrates a **strong understanding of structures, arrays of structures, and structure pointers**.
 
 Task 1 is functionally correct, but the member function does not follow the specified interface exactly. The assignment asks for:
 

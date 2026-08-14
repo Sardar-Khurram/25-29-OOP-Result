@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-34  
-**Student Name:** Niqash Ali  
+**Student Name:** Niqash Ali
 **Task Folder Location:** `OOP\Week 3\Task 1.cpp`  
 
 ---

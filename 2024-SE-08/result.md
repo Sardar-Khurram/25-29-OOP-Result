@@ -1,6 +1,6 @@
 # Lab 2 Evaluation Report (All Tasks)
 **Student Roll Number:** 2024-SE-08  
-**Student Name:** Syed Ahmed Gillani  
+**Student Name:** Syed Ahmed Gillani
 
 ---
 
@@ -30,7 +30,7 @@
 ---
 
 ### **Overall Teacher Remarks**
-Dear Ahmed,
+Dear Syed,
 
 Your Lab 2 submission in `Lab#02` contains implementations for Tasks 1 (`Student`), 2 (`Rectangle`), and 3 (`Voter`). 
 

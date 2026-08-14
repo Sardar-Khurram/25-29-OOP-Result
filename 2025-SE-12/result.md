@@ -1,6 +1,6 @@
 # Lab 2 Evaluation Report (All Tasks)
 **Student Roll Number:** 2025-SE-12  
-**Student Name:** Adeeba Mansoor Qureshi  
+**Student Name:** Adeeba Mansoor Qureshi
 
 ---
 
@@ -39,7 +39,7 @@ To improve, you need to focus on two areas:
 
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-12  
-**Student Name:** Adeeba Mansoor Qureshi  
+**Student Name:** Adeeba Mansoor Qureshi
 
 ---
 

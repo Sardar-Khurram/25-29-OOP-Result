@@ -1,7 +1,7 @@
 # Lab 6 Evaluation Report (Constructor Chaining & Destructors)
 
 **Student Roll Number:** 2025-SE-41
-**Student Name:** Aliza
+**Student Name:** Abdul Jalal Kazmi
 **Task Folder Location:** `N/A`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Aliza,** your Lab 6 submission is missing from your repository. Please upload your complete Lab 6 constructor/destructor tasks to receive evaluation.
+**Dear Abdul,** your Lab 6 submission is missing from your repository. Please upload your complete Lab 6 constructor/destructor tasks to receive evaluation.
 

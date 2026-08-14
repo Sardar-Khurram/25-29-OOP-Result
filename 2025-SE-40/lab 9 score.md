@@ -1,7 +1,7 @@
 # Lab 9 Evaluation Report (Operator Overloading ==)
 
 **Student Roll Number:** 2025-SE-40
-**Student Name:** Syeda Tanzeela Gillani
+**Student Name:** Danish Iqbal
 **Task Folder Location:** `LAB 09 Polymorphism (Static Binding)\`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Syeda,** your Lab 9 submission demonstrates your understanding of C++ operator overloading and member function comparison.
+**Dear Danish,** your Lab 9 submission demonstrates your understanding of C++ operator overloading and member function comparison.
 

@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-12  
-**Student Name:** Adeeba Mansoor Qureshi  
+**Student Name:** Adeeba Mansoor Qureshi
 **Task Folder Location:** `Lab Tasks\04-Lab(Encapsulation)\product.h & product.cpp`  
 
 ---

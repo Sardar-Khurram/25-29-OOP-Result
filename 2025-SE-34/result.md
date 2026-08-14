@@ -1,7 +1,7 @@
 # Lab 2 Evaluation Report (All Tasks)
 
 **Student Roll Number:** 2025-SE-34  
-**Student Name:** Zuhaib Ahmad  
+**Student Name:** Niqash Ali
 
 ---
 

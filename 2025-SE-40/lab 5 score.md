@@ -1,7 +1,7 @@
 # Lab 5 Evaluation Report (Inheritance)
 
 **Student Roll Number:** 2025-SE-40
-**Student Name:** Syeda Tanzeela Gillani
+**Student Name:** Danish Iqbal
 **Task Folder Location:** `LAB 05 Inheritance\`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Syeda,** your Lab 5 submission structurally demonstrates inheritance concepts in C++.
+**Dear Danish,** your Lab 5 submission structurally demonstrates inheritance concepts in C++.
 *Warning: Copying code from other students violates class policies. Please ensure you write your own solutions for future labs.*

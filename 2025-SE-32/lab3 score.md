@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-32  
-**Student Name:** Laiba Imtiaz  
+**Student Name:** Laiba Imtiaz
 **Task Folder Location:** `Lab 3\Lab03Task05.cpp`  
 
 ---

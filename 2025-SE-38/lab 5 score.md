@@ -1,7 +1,7 @@
 # Lab 5 Evaluation Report (Inheritance)
 
 **Student Roll Number:** 2025-SE-38
-**Student Name:** Muhammad Tayyab
+**Student Name:** Ammar Yasir
 **Task Folder Location:** `Lab No 05\`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Muhammad,** your Lab 5 submission structurally demonstrates inheritance concepts in C++.
+**Dear Ammar,** your Lab 5 submission structurally demonstrates inheritance concepts in C++.
 

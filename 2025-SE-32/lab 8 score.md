@@ -1,7 +1,7 @@
 # Lab 8 Evaluation Report (Polymorphism & Virtual Functions)
 
 **Student Roll Number:** 2025-SE-32
-**Student Name:** Muhammad Salman
+**Student Name:** Laiba Imtiaz
 **Task Folder Location:** `Lab08\`
 
 ---
@@ -35,4 +35,4 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Muhammad,** your Lab 8 submission demonstrates your understanding of runtime polymorphism and virtual functions in C++.
+**Dear Laiba,** your Lab 8 submission demonstrates your understanding of runtime polymorphism and virtual functions in C++.

@@ -1,7 +1,7 @@
 # Lab 8 Evaluation Report (Polymorphism & Virtual Functions)
 
 **Student Roll Number:** 2025-SE-36
-**Student Name:** Muhammad Zakria
+**Student Name:** Tanzeela Rehman
 **Task Folder Location:** `lab 8\`
 
 ---
@@ -35,4 +35,4 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Muhammad,** your Lab 8 submission demonstrates your understanding of runtime polymorphism and virtual functions in C++.
+**Dear Tanzeela,** your Lab 8 submission demonstrates your understanding of runtime polymorphism and virtual functions in C++.

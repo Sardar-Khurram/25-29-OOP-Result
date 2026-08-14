@@ -1,7 +1,7 @@
 # Lab 6 Evaluation Report (Constructor Chaining & Destructors)
 
 **Student Roll Number:** 2025-SE-38
-**Student Name:** Muhammad Tayyab
+**Student Name:** Ammar Yasir
 **Task Folder Location:** `Lab No 06\ (Named as .cpp.txt)`
 
 ---
@@ -35,4 +35,4 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Muhammad Tayyab,** your C++ logic for constructor chaining and destructors is completely correct. Please ensure that in future labs, your files are saved strictly as `.cpp` source files rather than `.cpp.txt`.
+**Dear Ammar,** your C++ logic for constructor chaining and destructors is completely correct. Please ensure that in future labs, your files are saved strictly as `.cpp` source files rather than `.cpp.txt`.

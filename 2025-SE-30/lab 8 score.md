@@ -1,7 +1,7 @@
 # Lab 8 Evaluation Report (Polymorphism & Virtual Functions)
 
 **Student Roll Number:** 2025-SE-30
-**Student Name:** Saad
+**Student Name:** Malik Waqar Latif
 **Task Folder Location:** `Lab 8\`
 
 ---
@@ -35,4 +35,4 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Saad,** your Lab 8 submission demonstrates your understanding of runtime polymorphism and virtual functions in C++.
+**Dear Malik,** your Lab 8 submission demonstrates your understanding of runtime polymorphism and virtual functions in C++.

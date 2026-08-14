@@ -1,7 +1,7 @@
 # Lab 10 Evaluation Report (File Handling in C++)
 
 **Student Roll Number:** 2025-SE-32
-**Student Name:** Muhammad Salman
+**Student Name:** Laiba Imtiaz
 **Task Folder Location:** `Lab9-3\ (Swapped folder)`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Muhammad,** your Lab 10 submission demonstrates your understanding of C++ file stream handling, reading, writing, and resource management.
+**Dear Laiba,** your Lab 10 submission demonstrates your understanding of C++ file stream handling, reading, writing, and resource management.
 

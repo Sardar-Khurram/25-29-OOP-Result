@@ -35,7 +35,7 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Muhammad Zain,** your Lab 1 submission demonstrates a **strong understanding of structures, arrays of structures, and structure pointers**. All three tasks satisfy the specified requirements.
+**Dear Muhammad,** your Lab 1 submission demonstrates a **strong understanding of structures, arrays of structures, and structure pointers**. All three tasks satisfy the specified requirements.
 
 Task 1 correctly implements the `Student` structure and member function. Task 2 successfully extends the concept to multiple students using an array of structures and user input. Task 3 correctly demonstrates pointer-based access using the `->` operator and invokes the member function through the structure pointer.   
 

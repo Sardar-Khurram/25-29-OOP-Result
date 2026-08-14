@@ -7,7 +7,7 @@
 
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-11  
-**Student Name:** Abdul Hadi Kiani  
+**Student Name:** Abdul Hadi Kiani
 
 ---
 

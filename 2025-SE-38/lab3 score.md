@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-38  
-**Student Name:** Ammar Yasir  
+**Student Name:** Ammar Yasir
 **Task Folder Location:** `Lab No 03\Product.h & main.cpp`  
 
 ---
@@ -23,4 +23,4 @@
 * **Grade Status:** **Excellent**
 
 ### 💬 **Overall Teacher Remarks**
-Dear Student, Great job on Lab 3! Your modular header design, test driver execution, and validation error messages are implemented well. Note that quantity can validly be `0` (empty stock), so use `q >= 0` in `setQuantity`. Good effort!
+Dear Ammar, Great job on Lab 3! Your modular header design, test driver execution, and validation error messages are implemented well. Note that quantity can validly be `0` (empty stock), so use `q >= 0` in `setQuantity`. Good effort!

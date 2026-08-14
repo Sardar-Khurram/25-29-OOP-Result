@@ -1,7 +1,7 @@
 # Lab 5 Evaluation Report (Inheritance)
 
 **Student Roll Number:** 2024-SE-18  
-**Student Name:** Syed Abdul Rehman  
+**Student Name:** Syed Abdul Rehman Naseem
 **Task Folder Location:** `LAB#05\`  
 
 ---
@@ -35,6 +35,6 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Syed Abdul Rehman,**  
+**Dear Syed,**  
 
 Outstanding work on Lab 5! You have demonstrated a comprehensive understanding of Object-Oriented Programming principles in C++, specifically regarding inheritance models (Single, Multilevel, Hierarchical, and Multiple). Your code is cleanly structured, adheres strictly to object encapsulation guidelines, correctly uses base-class constructor delegation, and handles standard console I/O seamlessly. Keep up the excellent work!

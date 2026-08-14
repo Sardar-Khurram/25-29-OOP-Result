@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-04  
-**Student Name:** Wajeeha Batool  
+**Student Name:** Wajeeha Batool
 **Task Folder Location:** `Lab 03\header.h & 1.cpp`  
 
 ---

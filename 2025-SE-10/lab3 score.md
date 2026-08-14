@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-10  
-**Student Name:** Misbah Khurshid  
+**Student Name:** Misbah Khurshid
 **Task Folder Location:** `Lab 03\Lab_3_ (Encapsulation).cpp`  
 
 ---

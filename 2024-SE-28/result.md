@@ -1,6 +1,6 @@
 # Lab 2 Evaluation Report (All Tasks)
 **Student Roll Number:** 2024-SE-28  
-**Student Name:** Raja Wajihullah Khan  
+**Student Name:** Raja Wajihullah Khan
 
 ---
 
@@ -30,7 +30,7 @@
 ---
 
 ### **Overall Teacher Remarks**
-Dear Wajih,
+Dear Raja,
 
 Your Lab 2 submission in `Lab#02` contains implementations for Tasks 1 (`Student`), 2 (`Rectangle`), and 3 (`Voter`). 
 

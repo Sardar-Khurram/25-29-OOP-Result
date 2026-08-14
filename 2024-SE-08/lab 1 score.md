@@ -35,7 +35,7 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Syed Ahmed,** your submission demonstrates a **strong understanding of structures, arrays of structures, and structure pointers**.
+**Dear Syed,** your submission demonstrates a **strong understanding of structures, arrays of structures, and structure pointers**.
 
 Task 1 is the only area where marks are deducted. The required member function is intended to be written as:
 

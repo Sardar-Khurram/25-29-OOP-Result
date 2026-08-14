@@ -35,7 +35,7 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Syeda Mariam,** your Lab 1 submission demonstrates a strong understanding of **structures, arrays of structures, structure pointers, and dynamic memory allocation**. All three tasks satisfy the required functionality, and the programs compile successfully.
+**Dear Syeda,** your Lab 1 submission demonstrates a strong understanding of **structures, arrays of structures, structure pointers, and dynamic memory allocation**. All three tasks satisfy the required functionality, and the programs compile successfully.
 
 Particularly, Task 3 demonstrates good practical understanding by dynamically allocating an array of structures, accessing members through pointers, invoking the member function through the pointer, and correctly freeing the allocated memory with `delete[]`. 
 

@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-22  
-**Student Name:** Noor Ul Ain Abbasi  
+**Student Name:** Noor Ul Ain Abbasi
 **Task Folder Location:** `Lab 03\header.h.h & 1.cpp.cpp`  
 
 ---

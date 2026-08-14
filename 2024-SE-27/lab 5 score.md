@@ -35,6 +35,6 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Muhammad Arslan,**
+**Dear Muhammad,**
 
 Excellent work on Lab 5! You have demonstrated a thorough understanding of Object-Oriented Programming inheritance concepts in C++. All four tasks (Single, Multilevel, Hierarchical, and Multiple Inheritance) were correctly implemented with clean syntax, proper encapsulation, constructor delegation/chaining, and zero compiler warnings or errors. Keep up the high standard of work!

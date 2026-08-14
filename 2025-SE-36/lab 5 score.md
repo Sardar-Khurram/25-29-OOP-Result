@@ -1,7 +1,7 @@
 # Lab 5 Evaluation Report (Inheritance)
 
 **Student Roll Number:** 2025-SE-36
-**Student Name:** Muhammad Zakria
+**Student Name:** Tanzeela Rehman
 **Task Folder Location:** `lab 5\`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Muhammad,** your Lab 5 submission structurally demonstrates inheritance concepts in C++.
+**Dear Tanzeela,** your Lab 5 submission structurally demonstrates inheritance concepts in C++.
 

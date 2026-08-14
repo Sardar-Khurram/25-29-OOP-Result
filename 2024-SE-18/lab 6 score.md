@@ -1,7 +1,7 @@
 # Lab 6 Evaluation Report (Constructor Chaining & Destructors)
 
 **Student Roll Number:** 2024-SE-18
-**Student Name:** Syed Abdul Rehman
+**Student Name:** Syed Abdul Rehman Naseem
 **Task Folder Location:** `LAB#06\`
 
 ---

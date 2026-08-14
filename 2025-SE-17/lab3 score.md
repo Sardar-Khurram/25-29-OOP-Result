@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-17  
-**Student Name:** Muqaddas Majeed  
+**Student Name:** Muqaddas Majeed
 **Task Folder Location:** `OOP_LAB_3\task 3 product.cpp`  
 
 ---

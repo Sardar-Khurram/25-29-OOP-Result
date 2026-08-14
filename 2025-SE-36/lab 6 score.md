@@ -1,7 +1,7 @@
 # Lab 6 Evaluation Report (Constructor Chaining & Destructors)
 
 **Student Roll Number:** 2025-SE-36
-**Student Name:** Muhammad Zakria
+**Student Name:** Tanzeela Rehman
 **Task Folder Location:** `lab 6\`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Muhammad,** your Lab 6 submission demonstrates your understanding of constructor chaining and destructors in C++.
+**Dear Tanzeela,** your Lab 6 submission demonstrates your understanding of constructor chaining and destructors in C++.
 

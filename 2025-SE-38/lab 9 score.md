@@ -1,7 +1,7 @@
 # Lab 9 Evaluation Report (Operator Overloading ==)
 
 **Student Roll Number:** 2025-SE-38
-**Student Name:** Muhammad Tayyab
+**Student Name:** Ammar Yasir
 **Task Folder Location:** `Lab No 09\`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Muhammad,** your Lab 9 submission demonstrates your understanding of C++ operator overloading and member function comparison.
+**Dear Ammar,** your Lab 9 submission demonstrates your understanding of C++ operator overloading and member function comparison.
 

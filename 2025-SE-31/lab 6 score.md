@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Mubashir,** your Lab 6 submission demonstrates your understanding of constructor chaining and destructors in C++.
+**Dear Khawaja,** your Lab 6 submission demonstrates your understanding of constructor chaining and destructors in C++.
 *Warning: Copying code from other students violates class policies. Please ensure you write your own solutions for future labs.*

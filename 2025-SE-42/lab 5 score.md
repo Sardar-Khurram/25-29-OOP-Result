@@ -1,7 +1,7 @@
 # Lab 5 Evaluation Report (Inheritance)
 
 **Student Roll Number:** 2025-SE-42
-**Student Name:** Wajiha batool
+**Student Name:** Muhammad Arif
 **Task Folder Location:** `LAB 05\`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Wajiha,** your Lab 5 submission structurally demonstrates inheritance concepts in C++.
+**Dear Muhammad,** your Lab 5 submission structurally demonstrates inheritance concepts in C++.
 *Warning: Copying code from other students violates class policies. Please ensure you write your own solutions for future labs.*

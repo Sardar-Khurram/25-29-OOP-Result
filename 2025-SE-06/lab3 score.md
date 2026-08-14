@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-06  
-**Student Name:** Maryam Jamil  
+**Student Name:** Maryam Jamil
 **Task Folder Location:** `Lab 3\Product.h & Main.cpp`  
 
 ---

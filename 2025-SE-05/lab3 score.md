@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-05  
-**Student Name:** Ali Zain-Ul-Abdin  
+**Student Name:** Ali Zain-Ul-Abdin
 **Task Folder Location:** `LAB 03\product.h & main.cpp`  
 
 ---

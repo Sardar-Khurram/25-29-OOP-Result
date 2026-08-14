@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-01  
-**Student Name:** Syeda Mariam Gillani  
+**Student Name:** Syeda Mariam Gillani
 **Task Folder Location:** `Lab-03\product.h & product.cpp`  
 
 ---

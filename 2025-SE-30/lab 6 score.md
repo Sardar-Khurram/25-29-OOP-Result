@@ -1,7 +1,7 @@
 # Lab 6 Evaluation Report (Constructor Chaining & Destructors)
 
 **Student Roll Number:** 2025-SE-30
-**Student Name:** Saad
+**Student Name:** Malik Waqar Latif
 **Task Folder Location:** `Lab 7\ (Swapped folder)`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Saad,** your Lab 6 submission demonstrates your understanding of constructor chaining and destructors in C++.
+**Dear Malik,** your Lab 6 submission demonstrates your understanding of constructor chaining and destructors in C++.
 

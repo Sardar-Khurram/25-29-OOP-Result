@@ -19,6 +19,6 @@
 * **Grade Status:** **Excellent (Full Marks)**
 
 ### **Overall Teacher Remarks**
-Dear Student,
+Dear Muqaddas,
 
 Outstanding work on Lab 2! Your folder structure is clean and organized, your code compiles without any errors or warnings, and all OOP scoping rules are strictly followed. Keep up the excellent work!

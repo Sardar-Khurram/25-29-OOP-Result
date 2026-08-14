@@ -1,7 +1,7 @@
 # Lab 5 Evaluation Report (Inheritance)
 
 **Student Roll Number:** 2025-SE-30
-**Student Name:** Saad
+**Student Name:** Malik Waqar Latif
 **Task Folder Location:** `Lab 4\ (Swapped folder)`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Saad,** your Lab 5 submission structurally demonstrates inheritance concepts in C++. 
+**Dear Malik,** your Lab 5 submission structurally demonstrates inheritance concepts in C++. 
 

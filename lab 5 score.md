@@ -9,7 +9,7 @@ This master summary compiles the evaluation results for **Lab 5 (Inheritance)** 
 | 2024-SE-05 | Qurat-Ul-ain Fatima | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Folder |
 | 2024-SE-08 | Syed Ahmed Gillani | `Lab#05` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Folder |
 | 2024-SE-12 | Adeela Bashir | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Folder |
-| 2024-SE-18 | Syed Abdul Rehman | `LAB#05\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed |
+| 2024-SE-18 | Syed Abdul Rehman Naseem | `LAB#05\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed |
 | 2024-SE-23 | Muqaddas Kiani | `week5\` | 2 | 3 | 2 | 2 | 9 | 0 | **9 / 12** | Satisfactory |
 | 2024-SE-27 | Muhammad Arslan | `Lab#05\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed |
 | 2024-SE-28 | Raja Wajihullah Khan | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
@@ -30,24 +30,24 @@ This master summary compiles the evaluation results for **Lab 5 (Inheritance)** 
 | 2025-SE-13 | Areeba Taqdees Mir | `WEEK 5\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed |
 | 2025-SE-14 | Komal Shafique | `Lab 5\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed |
 | 2025-SE-15 | Samia Arshad | `Week 5\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed |
-| 2025-SE-16 | Mubashir Ali | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
+| 2025-SE-16 | Ihtisham Hussain Raja | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
 | 2025-SE-17 | Muqaddas Majeed | `oop lab 5\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
 | 2025-SE-18 | Tahreem Rasheed | `Inheritance\` | 3 | 3 | 3 | 2 | 11 | 0 | **11 / 12** | Passed (Excellent) |
 | 2025-SE-21 | Noor Fatima Kiani | `oop lab5\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
 | 2025-SE-22 | Noor Ul Ain Abbasi | `Lab 05 (Inheritance)\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
 | 2025-SE-28 | Syed Fasih UL Hassan Gardezi | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
 | 2025-SE-29 | Shiza Mukhtar | `Lab 4 tasks\ (Swapped folder)` | 3 | 3 | 2 | 3 | 11 | 0 | **11 / 12** | Passed (Excellent) |
-| 2025-SE-30 | Saad | `Lab 4\ (Swapped folder)` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
-| 2025-SE-31 | Mubashir Ali | `LAB-TASKS\LAB-05\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
-| 2025-SE-32 | Muhammad Salman | `Lab5\` | 1 | 1 | 1 | 3 | 6 | 0 | **6 / 12** | Passed with feedback |
+| 2025-SE-30 | Malik Waqar Latif | `Lab 4\ (Swapped folder)` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
+| 2025-SE-31 | Khawaja Absar Ali | `LAB-TASKS\LAB-05\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
+| 2025-SE-32 | Laiba Imtiaz | `Lab5\` | 1 | 1 | 1 | 3 | 6 | 0 | **6 / 12** | Passed with feedback |
 | 2025-SE-33 | Rohail Abbas | `[Root Folder]\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
-| 2025-SE-34 | Zuhaib Ahmad | `OOP\Week 5\` | 2 | 3 | 2 | 3 | 10 | -3 | **7 / 12** | Passed with feedback |
+| 2025-SE-34 | Niqash Ali | `OOP\Week 5\` | 2 | 3 | 2 | 3 | 10 | -3 | **7 / 12** | Passed with feedback |
 | 2025-SE-35 | Muhammad Zakarya | `Week 5\` | 2 | 3 | 2 | 3 | 10 | -3 | **7 / 12** | Passed with feedback |
-| 2025-SE-36 | Muhammad Zakria | `lab 5\` | 2 | 3 | 2 | 3 | 10 | 0 | **10 / 12** | Passed (Excellent) |
-| 2025-SE-38 | Muhammad Tayyab | `Lab No 05\` | 3 | 3 | 3 | 2 | 11 | 0 | **11 / 12** | Passed (Excellent) |
-| 2025-SE-40 | Syeda Tanzeela Gillani | `LAB 05 Inheritance\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
-| 2025-SE-41 | Aliza | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
-| 2025-SE-42 | Wajiha batool | `LAB 05\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
+| 2025-SE-36 | Tanzeela Rehman | `lab 5\` | 2 | 3 | 2 | 3 | 10 | 0 | **10 / 12** | Passed (Excellent) |
+| 2025-SE-38 | Ammar Yasir | `Lab No 05\` | 3 | 3 | 3 | 2 | 11 | 0 | **11 / 12** | Passed (Excellent) |
+| 2025-SE-40 | Danish Iqbal | `LAB 05 Inheritance\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
+| 2025-SE-41 | Abdul Jalal Kazmi | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
+| 2025-SE-42 | Muhammad Arif | `LAB 05\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
 
 ---
 ### 🔑 **Rubric Criteria Key:**
@@ -70,7 +70,7 @@ This master summary compiles the evaluation results for **Lab 5 (Inheritance)** 
   - *Folder Location:* `N/A`
   - *Audit Details:* Inheritance Implementation (0/3): No Lab 5 folder or code submitted for inheritance tasks.; Classes, Attributes & Functions (0/3): No classes, attributes, or functions submitted.; Object Creation & Functionality (0/3): No object creation or test code submitted.; Input, Output & Execution (0/3): No runnable C++ code present for evaluation.
 
-* **2024-SE-18 - Syed Abdul Rehman** (Final: **9/12**):
+* **2024-SE-18 - Syed Abdul Rehman Naseem** (Final: **9/12**):
   - *Folder Location:* `LAB#05\`
   - *Audit Details:* Plagiarism Penalty: **Plagiarism penalty applied (-3 marks).**  
  Warning: All 4 task files are 100% identical matches (excluding spacing/comments) with student `2024-SE-27` (Muhammad Arslan) and partially match `2025-SE-05`.
@@ -137,7 +137,7 @@ This master summary compiles the evaluation results for **Lab 5 (Inheritance)** 
   - *Audit Details:* Plagiarism Penalty: **Plagiarism Penalty of **-3 marks** applied.**
  All 4 task files are 100% identical matches (excluding spacing/comments) with student `2025-SE-06` (Maryam Jamil).
 
-* **2025-SE-16 - Mubashir Ali** (Final: **0/12**):
+* **2025-SE-16 - Ihtisham Hussain Raja** (Final: **0/12**):
   - *Folder Location:* `N/A`
   - *Audit Details:* Inheritance Implementation (0/3): Absent.; Classes, Attributes & Functions (0/3): Absent.; Object Creation & Functionality (0/3): Absent.; Input, Output & Execution (0/3): Absent.
 
@@ -163,20 +163,20 @@ This master summary compiles the evaluation results for **Lab 5 (Inheritance)** 
   - *Folder Location:* `Lab 4 tasks\ (Swapped folder)`
   - *Audit Details:* Object Creation & Functionality (2/3): Good. Photocopy function is empty in Task 4 and does not call scan_document() and print_document() internally as required.
 
-* **2025-SE-30 - Saad** (Final: **12/12**):
+* **2025-SE-30 - Malik Waqar Latif** (Final: **12/12**):
   - *Folder Location:* `Lab 4\ (Swapped folder)`
   - *Audit Details:* Full Marks. Flawless implementation.
 
-* **2025-SE-31 - Mubashir Ali** (Final: **9/12**):
+* **2025-SE-31 - Khawaja Absar Ali** (Final: **9/12**):
   - *Folder Location:* `LAB-TASKS\LAB-05\`
   - *Audit Details:* Plagiarism Penalty: **Plagiarism Penalty of **-3 marks** applied.**
  All 4 task files are 100% identical matches (excluding spacing/comments) with student `2025-SE-04` (Wajeeha Batool) and student `2025-SE-22` (Noor Ul Ain Abbasi).
 
-* **2025-SE-32 - Muhammad Salman** (Final: **6/12**):
+* **2025-SE-32 - Laiba Imtiaz** (Final: **6/12**):
   - *Folder Location:* `Lab5\`
   - *Audit Details:* Inheritance Implementation (1/3): Needs Improvement. Only single and multilevel inheritance types implemented. Hierarchical and Multiple inheritance tasks completely omitted.; Classes, Attributes & Functions (1/3): Needs Improvement. Omitted major classes like Employee (Developer/Designer) and Printer/Scanner/Photocopier.; Object Creation & Functionality (1/3): Needs Improvement. Omitted object creation and calling for two entire tasks.
 
-* **2025-SE-34 - Zuhaib Ahmad** (Final: **7/12**):
+* **2025-SE-34 - Niqash Ali** (Final: **7/12**):
   - *Folder Location:* `OOP\Week 5\`
   - *Audit Details:* Plagiarism Penalty: **Plagiarism Penalty of **-3 marks** applied.**
  All 4 task files are 100% identical copy-matches (excluding spacing/comments) with student `2025-SE-35` (Muhammad Zakarya).; Inheritance Implementation (2/3): Good. Deducted 1 mark under Inheritance Implementation for using lowercase class names (person, student, employee, developer, designer, printer, scanner, photocopier) across all tasks.; Object Creation & Functionality (2/3): Good. Deducted 1 mark under Object Creation & Functionality: Photocopy function is empty (does not call print/scan), and there is a typo in scanner method name (scan_documenta).
@@ -186,24 +186,24 @@ This master summary compiles the evaluation results for **Lab 5 (Inheritance)** 
   - *Audit Details:* Plagiarism Penalty: **Plagiarism Penalty of **-3 marks** applied.**
  All 4 task files are 100% identical copy-matches (excluding spacing/comments) with student `2025-SE-34` (Zuhaib Ahmad).; Inheritance Implementation (2/3): Good. Deducted 1 mark under Inheritance Implementation for using lowercase class names (person, student, employee, developer, designer, printer, scanner, photocopier) across all tasks.; Object Creation & Functionality (2/3): Good. Deducted 1 mark under Object Creation & Functionality: Photocopy function is empty (does not call print/scan), and there is a typo in scanner method name (scan_documenta).
 
-* **2025-SE-36 - Muhammad Zakria** (Final: **10/12**):
+* **2025-SE-36 - Tanzeela Rehman** (Final: **10/12**):
   - *Folder Location:* `lab 5\`
   - *Audit Details:* Inheritance Implementation (2/3): Good. Deducted 1 mark under Inheritance Implementation for using lowercase class names (printer, scanner, photocopier) in Task 4.; Object Creation & Functionality (2/3): Good. Deducted 1 mark under Object Creation & Functionality: Photocopy function is empty (does not call print/scan) in Task 4.
 
-* **2025-SE-38 - Muhammad Tayyab** (Final: **11/12**):
+* **2025-SE-38 - Ammar Yasir** (Final: **11/12**):
   - *Folder Location:* `Lab No 05\`
   - *Audit Details:* Input, Output & Execution (2/3): Good. Deducted 1 mark under Input, Output & Execution because the program hardcodes inputs in Task 2 and Task 3 instead of accepting them from the user as required by the questions.
 
-* **2025-SE-40 - Syeda Tanzeela Gillani** (Final: **9/12**):
+* **2025-SE-40 - Danish Iqbal** (Final: **9/12**):
   - *Folder Location:* `LAB 05 Inheritance\`
   - *Audit Details:* Plagiarism Penalty: **Plagiarism Penalty of **-3 marks** applied.**
  All 4 task files are 100% identical copy-matches (excluding spacing/comments) with student `2025-SE-42` (Wajiha batool).
 
-* **2025-SE-41 - Aliza** (Final: **0/12**):
+* **2025-SE-41 - Abdul Jalal Kazmi** (Final: **0/12**):
   - *Folder Location:* `N/A`
   - *Audit Details:* Inheritance Implementation (0/3): Absent.; Classes, Attributes & Functions (0/3): Absent.; Object Creation & Functionality (0/3): Absent.; Input, Output & Execution (0/3): Absent.
 
-* **2025-SE-42 - Wajiha batool** (Final: **9/12**):
+* **2025-SE-42 - Muhammad Arif** (Final: **9/12**):
   - *Folder Location:* `LAB 05\`
   - *Audit Details:* Plagiarism Penalty: **Plagiarism Penalty of **-3 marks** applied.**
  All 4 task files are 100% identical copy-matches (excluding spacing/comments) with student `2025-SE-40` (Syeda Tanzeela Gillani).

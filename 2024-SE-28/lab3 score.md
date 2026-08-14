@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2024-SE-28  
-**Student Name:** Raja Wajihullah Khan  
+**Student Name:** Raja Wajihullah Khan
 **Task Folder Location:** `N/A (Empty Task File)`  
 
 ---

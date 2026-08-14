@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-30  
-**Student Name:** Malik Waqar Latif  
+**Student Name:** Malik Waqar Latif
 **Task Folder Location:** `Lab 3\1.cpp`  
 
 ---

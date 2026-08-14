@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-03  
-**Student Name:** Muhammad Zain Mughal  
+**Student Name:** Muhammad Zain Mughal
 **Task Folder Location:** `Lab 3\Product.h & main.cpp`  
 
 ---

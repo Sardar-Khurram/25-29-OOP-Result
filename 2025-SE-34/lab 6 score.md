@@ -1,7 +1,7 @@
 # Lab 6 Evaluation Report (Constructor Chaining & Destructors)
 
 **Student Roll Number:** 2025-SE-34
-**Student Name:** Zuhaib Ahmad
+**Student Name:** Niqash Ali
 **Task Folder Location:** `OOP\Week 6\`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Zuhaib,** your Lab 6 submission demonstrates your understanding of constructor chaining and destructors in C++.
+**Dear Niqash,** your Lab 6 submission demonstrates your understanding of constructor chaining and destructors in C++.
 *Warning: Copying code from other students violates class policies. Please ensure you write your own solutions for future labs.*

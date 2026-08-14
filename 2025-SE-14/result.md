@@ -1,6 +1,6 @@
 # Lab 2 Evaluation Report (All Tasks)
 **Student Roll Number:** 2025-SE-14  
-**Student Name:** Komal Shafique  
+**Student Name:** Komal Shafique
 
 ---
 
@@ -37,7 +37,7 @@ The only issue in your submission is a classic C++ logical error in Task 4's tem
 
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-14  
-**Student Name:** Komal Shafique  
+**Student Name:** Komal Shafique
 
 ---
 

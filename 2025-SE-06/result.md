@@ -1,6 +1,6 @@
 # Lab 2 Evaluation Report (All Tasks)
 **Student Roll Number:** 2025-SE-06  
-**Student Name:** Maryam Jamil  
+**Student Name:** Maryam Jamil
 
 ---
 
@@ -37,7 +37,7 @@ The only minor point to note is the mathematical logic error in the perimeter fo
 
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2025-SE-06  
-**Student Name:** Maryam Jamil  
+**Student Name:** Maryam Jamil
 
 ---
 

@@ -1,7 +1,7 @@
 # Lab 6 Evaluation Report (Constructor Chaining & Destructors)
 
 **Student Roll Number:** 2025-SE-42
-**Student Name:** Wajiha batool
+**Student Name:** Muhammad Arif
 **Task Folder Location:** `LAB 06\`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Wajiha,** your Lab 6 submission demonstrates your understanding of constructor chaining and destructors in C++.
+**Dear Muhammad,** your Lab 6 submission demonstrates your understanding of constructor chaining and destructors in C++.
 *Warning: Copying code from other students violates class policies. Please ensure you write your own solutions for future labs.*

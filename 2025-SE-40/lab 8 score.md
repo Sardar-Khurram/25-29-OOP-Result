@@ -1,7 +1,7 @@
 # Lab 8 Evaluation Report (Polymorphism & Virtual Functions)
 
 **Student Roll Number:** 2025-SE-40
-**Student Name:** Syeda Tanzeela Gillani
+**Student Name:** Danish Iqbal
 **Task Folder Location:** `LAB 08 Polymorphism (Dynmaic Binding)\`
 
 ---
@@ -35,4 +35,4 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Syeda,** your Lab 8 submission demonstrates your understanding of runtime polymorphism and virtual functions in C++.
+**Dear Danish,** your Lab 8 submission demonstrates your understanding of runtime polymorphism and virtual functions in C++.

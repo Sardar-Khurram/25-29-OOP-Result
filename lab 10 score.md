@@ -9,7 +9,7 @@ This master summary compiles the evaluation results for **Lab 10 (File Handling 
 | 2024-SE-05 | Qurat-Ul-ain Fatima | `file handling\` | 3 | 3 | 2 | 3 | 11 | -3 | **8 / 12** | Passed (Good) |
 | 2024-SE-08 | Syed Ahmed Gillani | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
 | 2024-SE-12 | Adeela Bashir | `file handling\` | 3 | 3 | 2 | 3 | 11 | -3 | **8 / 12** | Passed (Good) |
-| 2024-SE-18 | Syed Abdul Rehman | `LAB#10\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
+| 2024-SE-18 | Syed Abdul Rehman Naseem | `LAB#10\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
 | 2024-SE-23 | Muqaddas Kiani | `WEEK10\` | 3 | 3 | 3 | 2 | 11 | 0 | **11 / 12** | Passed (Excellent) |
 | 2024-SE-27 | Muhammad Arslan | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
 | 2024-SE-28 | Raja Wajihullah Khan | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
@@ -30,24 +30,24 @@ This master summary compiles the evaluation results for **Lab 10 (File Handling 
 | 2025-SE-13 | Areeba Taqdees Mir | `WEEK 10\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
 | 2025-SE-14 | Komal Shafique | `Lab 10\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
 | 2025-SE-15 | Samia Arshad | `Week 10\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
-| 2025-SE-16 | Mubashir Ali | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
+| 2025-SE-16 | Ihtisham Hussain Raja | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
 | 2025-SE-17 | Muqaddas Majeed | `OOP lab 10\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
 | 2025-SE-18 | Tahreem Rasheed | `File handling\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
 | 2025-SE-21 | Noor Fatima Kiani | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
 | 2025-SE-22 | Noor Ul Ain Abbasi | `Lab 10(File handling)\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
 | 2025-SE-28 | Syed Fasih UL Hassan Gardezi | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
 | 2025-SE-29 | Shiza Mukhtar | `Lab 9 tasks\ (Swapped folder)` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
-| 2025-SE-30 | Saad | `Lab 9\ (Swapped folder)` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
+| 2025-SE-30 | Malik Waqar Latif | `Lab 9\ (Swapped folder)` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
 | 2025-SE-31 | Khawaja Absar Ali | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
-| 2025-SE-32 | Muhammad Salman | `Lab9-3\ (Swapped folder)` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
+| 2025-SE-32 | Laiba Imtiaz | `Lab9-3\ (Swapped folder)` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
 | 2025-SE-33 | Rohail Abbas | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
-| 2025-SE-34 | Zuhaib Ahmad | `OOP\Week 10\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
+| 2025-SE-34 | Niqash Ali | `OOP\Week 10\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
 | 2025-SE-35 | Muhammad Zakarya | `Week 10\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
-| 2025-SE-36 | Muhammad Zakria | `lab 9\ (Swapped folder)` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
-| 2025-SE-38 | Muhammad Tayyab | `Lab No 10\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
-| 2025-SE-40 | Syeda Tanzeela Gillani | `LAB 10 File Handling\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
-| 2025-SE-41 | Aliza | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
-| 2025-SE-42 | Wajiha batool | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
+| 2025-SE-36 | Tanzeela Rehman | `lab 9\ (Swapped folder)` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
+| 2025-SE-38 | Ammar Yasir | `Lab No 10\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
+| 2025-SE-40 | Danish Iqbal | `LAB 10 File Handling\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
+| 2025-SE-41 | Abdul Jalal Kazmi | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
+| 2025-SE-42 | Muhammad Arif | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
 
 ---
 ### 🔑 **Rubric Criteria Key:**
@@ -130,7 +130,7 @@ This master summary compiles the evaluation results for **Lab 10 (File Handling 
   - *Audit Details:* Plagiarism Penalty: **Plagiarism Penalty of **-3 marks** applied.**
  All 4 source code files are 100% exact raw byte-for-byte copy-matches with student `2025-SE-06` (Maryam Jamil), including Maryam Jamil's name and roll number inside the append file logic.
 
-* **2025-SE-16 - Mubashir Ali** (Final: **0/12**):
+* **2025-SE-16 - Ihtisham Hussain Raja** (Final: **0/12**):
   - *Folder Location:* `N/A`
   - *Audit Details:* File Creation & Writing (0/3): Absent.; File Reading & Content Display (0/3): Absent.; Line Counting & File Appending/Copying (0/3): Absent.; File Handling, Execution & Output (0/3): Absent.
 
@@ -156,7 +156,7 @@ This master summary compiles the evaluation results for **Lab 10 (File Handling 
   - *Folder Location:* `Lab 9 tasks\ (Swapped folder)`
   - *Audit Details:* Full Marks. Flawless implementation.
 
-* **2025-SE-30 - Saad** (Final: **12/12**):
+* **2025-SE-30 - Malik Waqar Latif** (Final: **12/12**):
   - *Folder Location:* `Lab 9\ (Swapped folder)`
   - *Audit Details:* Full Marks. Flawless implementation.
 
@@ -164,7 +164,7 @@ This master summary compiles the evaluation results for **Lab 10 (File Handling 
   - *Folder Location:* `N/A`
   - *Audit Details:* File Creation & Writing (0/3): Absent.; File Reading & Content Display (0/3): Absent.; Line Counting & File Appending/Copying (0/3): Absent.; File Handling, Execution & Output (0/3): Absent.
 
-* **2025-SE-32 - Muhammad Salman** (Final: **12/12**):
+* **2025-SE-32 - Laiba Imtiaz** (Final: **12/12**):
   - *Folder Location:* `Lab9-3\ (Swapped folder)`
   - *Audit Details:* Full Marks. Flawless implementation.
 
@@ -172,7 +172,7 @@ This master summary compiles the evaluation results for **Lab 10 (File Handling 
   - *Folder Location:* `N/A`
   - *Audit Details:* File Creation & Writing (0/3): Absent.; File Reading & Content Display (0/3): Absent.; Line Counting & File Appending/Copying (0/3): Absent.; File Handling, Execution & Output (0/3): Absent.
 
-* **2025-SE-34 - Zuhaib Ahmad** (Final: **9/12**):
+* **2025-SE-34 - Niqash Ali** (Final: **9/12**):
   - *Folder Location:* `OOP\Week 10\`
   - *Audit Details:* Plagiarism Penalty: **Plagiarism Penalty of **-3 marks** applied.**
  Source code files for Task 2 and Task 3 are 100% exact raw byte-for-byte copy-matches with student `2025-SE-35` (Muhammad Zakarya).
@@ -182,16 +182,16 @@ This master summary compiles the evaluation results for **Lab 10 (File Handling 
   - *Audit Details:* Plagiarism Penalty: **Plagiarism Penalty of **-3 marks** applied.**
  Source code files for Task 2 and Task 3 are 100% exact raw byte-for-byte copy-matches with student `2025-SE-34` (Zuhaib Ahmad).
 
-* **2025-SE-36 - Muhammad Zakria** (Final: **9/12**):
+* **2025-SE-36 - Tanzeela Rehman** (Final: **9/12**):
   - *Folder Location:* `lab 9\ (Swapped folder)`
   - *Audit Details:* Plagiarism Penalty: **Plagiarism Penalty of **-3 marks** applied.**
  All 4 source code files are 100% exact raw copy-matches with student `2025-SE-02` (Shahnza Munir), including Shahnza's name and roll number inside the append file logic.
 
-* **2025-SE-41 - Aliza** (Final: **0/12**):
+* **2025-SE-41 - Abdul Jalal Kazmi** (Final: **0/12**):
   - *Folder Location:* `N/A`
   - *Audit Details:* File Creation & Writing (0/3): Absent.; File Reading & Content Display (0/3): Absent.; Line Counting & File Appending/Copying (0/3): Absent.; File Handling, Execution & Output (0/3): Absent.
 
-* **2025-SE-42 - Wajiha batool** (Final: **0/12**):
+* **2025-SE-42 - Muhammad Arif** (Final: **0/12**):
   - *Folder Location:* `N/A`
   - *Audit Details:* File Creation & Writing (0/3): Absent.; File Reading & Content Display (0/3): Absent.; Line Counting & File Appending/Copying (0/3): Absent.; File Handling, Execution & Output (0/3): Absent.
 
@@ -199,7 +199,7 @@ This master summary compiles the evaluation results for **Lab 10 (File Handling 
 
 A flat **-3 marks plagiarism penalty** has been applied to students sharing 100% matched code structures:
 
-1. **Qurat-Ul-ain Fatima (2024-SE-05)**, **Adeela Bashir (2024-SE-12)**, **Sakeena Bano (2024-SE-29)**, & **Maryam shaheen (2024-SE-30)**
+1. **Qurat-Ul-Qurat-Ul-ain Fatima (2024-SE-05)**, **Adeela Bashir (2024-SE-12)**, **Sakeena Bano (2024-SE-29)**, & **Maryam shaheen (2024-SE-30)**
    - 100% exact raw byte-for-byte copy match across all 4 files (including duplicate line count in Task 3).
 
 2. **Wajeeha Batool (2025-SE-04)**, **Muqaddas Majeed (2025-SE-17)**, & **Noor Ul Ain Abbasi (2025-SE-22)**
@@ -208,8 +208,8 @@ A flat **-3 marks plagiarism penalty** has been applied to students sharing 100%
 3. **Maryam Jamil (2025-SE-06)** & **Komal Shafique (2025-SE-14)**
    - 100% exact raw byte-for-byte copy match across all 4 files (including Maryam Jamil's credentials in Komal's append file).
 
-4. **Zuhaib Ahmad (2025-SE-34)** & **Muhammad Zakarya (2025-SE-35)**
+4. **Niqash Ali (2025-SE-34)** & **Muhammad Zakarya (2025-SE-35)**
    - 100% exact raw byte-for-byte copy match across Task 2 and Task 3.
 
-5. **Shahnza Munir (2025-SE-02)** & **Muhammad Zakria (2025-SE-36)**
+5. **Shahnza Munir (2025-SE-02)** & **Tanzeela Rehman (2025-SE-36)**
    - 100% exact copy across all 4 files (including Shahnza's credentials in Zakria's append file).

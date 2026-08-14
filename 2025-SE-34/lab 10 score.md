@@ -1,7 +1,7 @@
 # Lab 10 Evaluation Report (File Handling in C++)
 
 **Student Roll Number:** 2025-SE-34
-**Student Name:** Zuhaib Ahmad
+**Student Name:** Niqash Ali
 **Task Folder Location:** `OOP\Week 10\`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Zuhaib,** your Lab 10 submission demonstrates your understanding of C++ file stream handling, reading, writing, and resource management.
+**Dear Niqash,** your Lab 10 submission demonstrates your understanding of C++ file stream handling, reading, writing, and resource management.
 *Warning: Copying code from other students violates class policies. Please ensure you write your own solutions for future labs.*

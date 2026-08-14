@@ -1,7 +1,7 @@
 # Lab 10 Evaluation Report (File Handling in C++)
 
 **Student Roll Number:** 2025-SE-36
-**Student Name:** Muhammad Zakria
+**Student Name:** Tanzeela Rehman
 **Task Folder Location:** `lab 9\ (Swapped folder)`
 
 ---
@@ -35,5 +35,5 @@
 
 ### 💬 **Overall Teacher Remarks**
 
-**Dear Muhammad,** your Lab 10 submission demonstrates your understanding of C++ file stream handling, reading, writing, and resource management.
+**Dear Tanzeela,** your Lab 10 submission demonstrates your understanding of C++ file stream handling, reading, writing, and resource management.
 *Warning: Copying code from other students violates class policies. Please ensure you write your own solutions for future labs.*

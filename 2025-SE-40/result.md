@@ -1,7 +1,7 @@
 # Lab 2 Evaluation Report
 
 **Student Roll Number:** 2025-SE-40  
-**Student Name:** Muhammad Haris  
+**Student Name:** Danish Iqbal
 
 ---
 

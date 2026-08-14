@@ -1,7 +1,7 @@
 # Lab 2 Evaluation Report (All Tasks)
 
 **Student Roll Number:** 2025-SE-32  
-**Student Name:** Muhammad Salman  
+**Student Name:** Laiba Imtiaz
 
 ---
 

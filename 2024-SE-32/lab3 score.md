@@ -1,6 +1,6 @@
 # Lab 3 Evaluation Report (Encapsulation Task)
 **Student Roll Number:** 2024-SE-32  
-**Student Name:** Muhammad Hasham  
+**Student Name:** Muhammad Hasham
 **Task Folder Location:** `N/A (Empty Task File)`  
 
 ---
