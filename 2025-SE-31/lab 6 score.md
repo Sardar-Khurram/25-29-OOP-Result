@@ -1,7 +1,7 @@
 # Lab 6 Evaluation Report (Constructor Chaining & Destructors)
 
 **Student Roll Number:** 2025-SE-31
-**Student Name:** Mubashir Ali
+**Student Name:** Khawaja Absar Ali
 **Task Folder Location:** `LAB-TASKS\LAB-06\`
 
 ---

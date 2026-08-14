@@ -30,7 +30,7 @@ This master summary compiles the evaluation results for **Lab 7 (Composition & A
 | 2025-SE-13 | Areeba Taqdees Mir | `WEEK 7\` | 3 | 2 | 2 | 1 | 8 | 0 | **8 / 12** | Passed (Good) |
 | 2025-SE-14 | Komal Shafique | `Lab 7\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
 | 2025-SE-15 | Samia Arshad | `Week 7\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
-| 2025-SE-16 | Mubashir Ali | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
+| 2025-SE-16 | Khawaja Absar Ali | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
 | 2025-SE-17 | Muqaddas Majeed | `oop lab 7\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
 | 2025-SE-18 | Tahreem Rasheed | `Agregation compsition\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
 | 2025-SE-21 | Noor Fatima Kiani | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
@@ -38,7 +38,7 @@ This master summary compiles the evaluation results for **Lab 7 (Composition & A
 | 2025-SE-28 | Syed Fasih UL Hassan Gardezi | `N/A` | 0 | 0 | 0 | 0 | 0 | 0 | **0 / 12** | Absent / Empty Task Folder |
 | 2025-SE-29 | Shiza Mukhtar | `Lab 7 tasks\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
 | 2025-SE-30 | Saad | `Lab 6\ (Swapped folder)` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
-| 2025-SE-31 | Mubashir Ali | `LAB-TASKS\LAB-07\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
+| 2025-SE-31 | Khawaja Absar Ali | `LAB-TASKS\LAB-07\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
 | 2025-SE-32 | Muhammad Salman | `lab7\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
 | 2025-SE-33 | Rohail Abbas | `[Root Folder]\` | 3 | 3 | 3 | 3 | 12 | 0 | **12 / 12** | Passed (Excellent) |
 | 2025-SE-34 | Zuhaib Ahmad | `OOP\Week 7\` | 3 | 3 | 3 | 3 | 12 | -3 | **9 / 12** | Passed (Good) |
@@ -140,7 +140,7 @@ This master summary compiles the evaluation results for **Lab 7 (Composition & A
   - *Audit Details:* Plagiarism Penalty: **Plagiarism Penalty of **-3 marks** applied.**
  Both task files are 100% identical copy-matches (excluding spacing/comments) with student `2025-SE-06` (Maryam Jamil).
 
-* **2025-SE-16 - Mubashir Ali** (Final: **0/12**):
+* **2025-SE-16 - Khawaja Absar Ali** (Final: **0/12**):
   - *Folder Location:* `N/A`
   - *Audit Details:* Composition & Object Ownership (0/3): Absent.; Aggregation & Shared Object Usage (0/3): Absent.; Classes, Functions & Data Management (0/3): Absent.; Object Creation, Output & Execution (0/3): Absent.
 
@@ -161,7 +161,7 @@ This master summary compiles the evaluation results for **Lab 7 (Composition & A
   - *Folder Location:* `Lab 6\ (Swapped folder)`
   - *Audit Details:* Full Marks. Flawless implementation.
 
-* **2025-SE-31 - Mubashir Ali** (Final: **9/12**):
+* **2025-SE-31 - Khawaja Absar Ali** (Final: **9/12**):
   - *Folder Location:* `LAB-TASKS\LAB-07\`
   - *Audit Details:* Plagiarism Penalty: **Plagiarism Penalty of **-3 marks** applied.**
  Both task files are 100% identical copy-matches (excluding spacing/comments) with students `2024-SE-18`, `2024-SE-27`, and `2025-SE-05`.
@@ -201,7 +201,7 @@ A flat **-3 marks plagiarism penalty** has been applied to students sharing 100%
 1. **Qurat-Ul-ain Fatima (2024-SE-05)**, **Adeela Bashir (2024-SE-12)**, **Sakeena Bano (2024-SE-29)**, & **Maryam Shaheen (2024-SE-30)**
    - 100% matched code files across `composition&aggregiation\` (`program 1.cpp` & `program 2.cpp`).
 
-2. **Syed Abdul Rehman (2024-SE-18)**, **Muhammad Arslan (2024-SE-27)**, **Ali Zain-Ul-Abdin (2025-SE-05)**, & **Mubashir Ali (2025-SE-31)**
+2. **Syed Abdul Rehman (2024-SE-18)**, **Muhammad Arslan (2024-SE-27)**, **Ali Zain-Ul-Abdin (2025-SE-05)**, & **Khawaja Absar Ali (2025-SE-31)**
    - 100% matched code files across both composition and aggregation tasks.
 
 3. **Shahnza Munir (2025-SE-02)** & **Noor Ul Ain Abbasi (2025-SE-22)**
