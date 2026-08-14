@@ -1,0 +1,39 @@
+# Lab 6 Evaluation Report (Constructor Chaining & Destructors)
+
+**Student Roll Number:** 2025-SE-30
+**Student Name:** Saad
+**Task Folder Location:** `Lab 7\ (Swapped folder)`
+
+---
+
+### 📊 **Evaluation Rubric Table**
+
+| **Criteria** | **Max Marks** | **Marks Obtained** | **Teacher's Feedback & Explanation** |
+| :--- | :---: | :---: | :--- |
+| **Constructor & Inheritance Implementation** | 3 | **3** | Excellent. Correct constructor chaining and multilevel constructor implementation in Lab 7 folder. |
+| **Destructor & Memory Management** | 3 | **3** | Excellent. Clean destructor implementation freeing dynamic memory cleanly. |
+| **Classes, Attributes & Object Functionality** | 3 | **3** | Excellent. All classes, attributes, and object relationships are correctly demonstrated. |
+| **Input, Output & Execution** | 3 | **3** | Excellent. All files compile and execute cleanly. |
+
+---
+
+### 📈 **Summary of Results**
+
+* **Core Rubric Score:** **12 / 12**
+* **Plagiarism Penalty:** **0 Marks**
+* **Final Marks:** **12 / 12 (100.0%)**
+* **Grade Status:** **Passed (Excellent)**
+
+---
+
+### ⚠️ **Plagiarism Audit Detail**
+
+> **No plagiarism penalty applied.**
+> No similarity matches found.
+
+---
+
+### 💬 **Overall Teacher Remarks**
+
+**Dear Saad,** your Lab 6 submission demonstrates your understanding of constructor chaining and destructors in C++.
+

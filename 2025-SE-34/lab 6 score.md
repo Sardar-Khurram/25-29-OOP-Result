@@ -1,0 +1,39 @@
+# Lab 6 Evaluation Report (Constructor Chaining & Destructors)
+
+**Student Roll Number:** 2025-SE-34
+**Student Name:** Zuhaib Ahmad
+**Task Folder Location:** `OOP\Week 6\`
+
+---
+
+### 📊 **Evaluation Rubric Table**
+
+| **Criteria** | **Max Marks** | **Marks Obtained** | **Teacher's Feedback & Explanation** |
+| :--- | :---: | :---: | :--- |
+| **Constructor & Inheritance Implementation** | 3 | **2** | Good. Deducted 1 mark under Constructor & Inheritance Implementation for using lowercase class names (product, electronics, vehicle, car, electriccar, file, textfile, device, sensor) across all tasks. |
+| **Destructor & Memory Management** | 3 | **3** | Excellent. Required attributes and destructor functions are defined correctly. |
+| **Classes, Attributes & Object Functionality** | 3 | **3** | Excellent. Object creation and dynamic memory allocation/deallocation check is correct. |
+| **Input, Output & Execution** | 3 | **3** | Excellent. All files compile and execute successfully. |
+
+---
+
+### 📈 **Summary of Results**
+
+* **Core Rubric Score:** **11 / 12**
+* **Plagiarism Penalty:** **-3 Marks**
+* **Final Marks:** **8 / 12 (66.7%)**
+* **Grade Status:** **Passed (Good)**
+
+---
+
+### ⚠️ **Plagiarism Audit Detail**
+
+> **Plagiarism Penalty of **-3 marks** applied.**
+> All 4 task files are 100% identical copy-matches (excluding spacing/comments) with student `2025-SE-35` (Muhammad Zakarya).
+
+---
+
+### 💬 **Overall Teacher Remarks**
+
+**Dear Zuhaib,** your Lab 6 submission demonstrates your understanding of constructor chaining and destructors in C++.
+*Warning: Copying code from other students violates class policies. Please ensure you write your own solutions for future labs.*

@@ -1,0 +1,39 @@
+# Lab 6 Evaluation Report (Constructor Chaining & Destructors)
+
+**Student Roll Number:** 2024-SE-27
+**Student Name:** Muhammad Arslan
+**Task Folder Location:** `Lab#06\`
+
+---
+
+### 📊 **Evaluation Rubric Table**
+
+| **Criteria** | **Max Marks** | **Marks Obtained** | **Teacher's Feedback & Explanation** |
+| :--- | :---: | :---: | :--- |
+| **Constructor & Inheritance Implementation** | 3 | **3** | Excellent. Correct constructor chaining implementation and multilevel constructor call sequence. |
+| **Destructor & Memory Management** | 3 | **3** | Excellent. Correct destructor implementation, including virtual destructor in base class, showing dynamic memory releases cleanly. |
+| **Classes, Attributes & Object Functionality** | 3 | **3** | Excellent. Required classes, attributes, and object relationships are correctly demonstrated. |
+| **Input, Output & Execution** | 3 | **3** | Excellent. All C++ files compile cleanly without warnings and execute with clear console logs. |
+
+---
+
+### 📈 **Summary of Results**
+
+* **Core Rubric Score:** **12 / 12**
+* **Plagiarism Penalty:** **-3 Marks**
+* **Final Marks:** **9 / 12 (75.0%)**
+* **Grade Status:** **Passed (Good)**
+
+---
+
+### ⚠️ **Plagiarism Audit Detail**
+
+> **Plagiarism Penalty of **-3 marks** applied.**
+> All 4 task files are 100% identical copy-matches (excluding spacing/comments) with student `2024-SE-18` (Syed Abdul Rehman).
+
+---
+
+### 💬 **Overall Teacher Remarks**
+
+**Dear Muhammad,** your Lab 6 submission demonstrates your understanding of constructor chaining and destructors in C++.
+*Warning: Copying code from other students violates class policies. Please ensure you write your own solutions for future labs.*
