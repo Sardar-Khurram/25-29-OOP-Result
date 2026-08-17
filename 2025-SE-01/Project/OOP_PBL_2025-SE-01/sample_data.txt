@@ -1,0 +1,35 @@
+Passengers:
+Economy P101 Hamza_Ali
+Economy P102 Fatima_Khalid
+Business P103 Usman_Ahmed
+Business P104 Maryam_Saeed
+FirstClass P105 Hassan_Shah
+Economy P106 Areeba_Noor
+FirstClass P107 Abdullah_Khan
+Business P108 Mahnoor_Javed
+
+Tickets:
+P101 SK-111 5 5000
+P102 SK-111 12 5000
+P103 IN-511 3 20000
+P104 IN-511 7 20000
+P105 IN-622 1 20000
+P106 SK-225 22 5000
+P107 IN-733 2 20000
+P108 IN-844 9 20000
+P101 SK-330 15 5000
+P103 IN-622 4 20000
+P105 CT-101 1 30000
+P107 CT-202 2 30000
+
+Flights:
+Domestic SK-111 48 50 25000
+Domestic SK-225 97 100 15000
+Domestic SK-330 58 60 20000
+International IN-511 138 150 180000
+International IN-622 84 90 280000
+International IN-733 196 200 400000
+International IN-844 45 50 160000
+Charter CT-101 18 20 90000
+Charter CT-202 8 10 150000
+Domestic SK-445 72 80 40000

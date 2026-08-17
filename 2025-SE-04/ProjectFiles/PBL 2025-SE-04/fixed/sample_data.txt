@@ -1,0 +1,33 @@
+Flights:
+Domestic PK-101 48 50 25000
+Domestic PK-205 97 100 15000
+Domestic PK-310 58 60 20000
+International PK-502 138 150 180000
+International PK-615 84 90 280000
+International PK-720 196 200 400000
+International PK-850 45 50 160000
+Charter CH-001 18 20 90000
+Charter CH-002 8 10 150000
+Domestic PK-404 72 80 40000
+Passengers:
+Economy P001 Ali_Khan
+Economy P002 Sara_Ahmed
+Business P003 Bilal_Malik
+Business P004 Ayesha_Raza
+FirstClass P005 Omar_Sheikh
+Economy P006 Hina_Butt
+FirstClass P007 Zaid_Mirza
+Business P008 Nadia_Qureshi
+Tickets:
+P001 PK-101 5 5000
+P002 PK-101 12 5000
+P003 PK-502 3 20000
+P004 PK-502 7 20000
+P005 PK-615 1 20000
+P006 PK-205 22 5000
+P007 PK-720 2 20000
+P008 PK-850 9 20000
+P001 PK-310 15 5000
+P003 PK-615 4 20000
+P005 CH-001 1 30000
+P007 CH-002 2 30000

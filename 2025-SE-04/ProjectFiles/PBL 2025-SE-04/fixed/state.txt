@@ -1,0 +1,5 @@
+Flights:
+Domestic pk-101 20 20 0
+Passengers:
+Economy 1 wajeeha
+Tickets:

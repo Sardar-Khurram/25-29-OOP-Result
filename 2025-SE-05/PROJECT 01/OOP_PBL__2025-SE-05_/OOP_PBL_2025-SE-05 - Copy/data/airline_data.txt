@@ -1,0 +1,19 @@
+COUNTER|1010
+FLIGHT|Domestic|SK101|Karachi|Lahore|2026-05-30|08:00|150|150|Northern|5
+FLIGHT|Domestic|SK102|Lahore|Islamabad|2026-05-30|10:30|120|120|Northern|5
+FLIGHT|Domestic|SK103|Islamabad|Quetta|2026-05-31|14:00|100|100|Southern|7
+FLIGHT|Domestic|SK104|Karachi|Peshawar|2026-06-01|07:00|180|180|Northern|5
+FLIGHT|International|SK201|Karachi|Dubai|2026-05-30|22:00|200|200|UAE|0|150
+FLIGHT|International|SK202|Lahore|London|2026-06-02|03:00|250|250|UK|1|300
+FLIGHT|International|SK203|Islamabad|Riyadh|2026-06-03|05:30|220|220|Saudi Arabia|1|200
+FLIGHT|Charter|SK301|Karachi|Skardu|2026-05-30|09:00|50|50|Mountain Tours Co|25000
+FLIGHT|Charter|SK302|Lahore|Gilgit|2026-06-04|08:00|40|40|Adventure Travels|20000
+FLIGHT|Domestic|SK105|Multan|Faisalabad|2026-06-05|11:00|90|90|Central|6
+PASSENGER|Economy|P001|Ali Hassan|ali@email.com|0301-1234567|0
+PASSENGER|Economy|P002|Sara Ahmed|sara@email.com|0302-2345678|0
+PASSENGER|Business|P003|Bilal Khan|bilal@email.com|0303-3456789|0
+PASSENGER|Business|P004|Fatima Malik|fatima@email.com|0304-4567890|0
+PASSENGER|FirstClass|P005|Usman Tariq|usman@email.com|0305-5678901|0
+PASSENGER|FirstClass|P006|Ayesha Raza|ayesha@email.com|0306-6789012|0
+PASSENGER|Economy|P007|Zain Ul Abideen|zain@email.com|0307-7890123|0
+PASSENGER|Business|P008|Hina Baig|hina@email.com|0308-8901234|0
