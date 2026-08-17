@@ -1,3 +1,43 @@
+# Object-Oriented Programming — Consolidated Evaluation Report
+
+**Student Name:** Danish Iqbal  
+**Roll Number:** `2025-SE-40`  
+**Total Maximum Marks:** 210  
+**Total Obtained Marks:** 138 / 210 (65.71%)  
+**Total Excluding Plagiarism:** 155 / 210 (73.81%)  
+
+---
+
+### 📊 **Student Grand Total Result Table**
+
+| Lab Number | Total Marks | Obtained Marks | Excluding Plagarism | Status / Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| Lab  1 | 12 | 11 | 11 | Submitted |
+| Lab  2 | 12 | 12 | 12 | Submitted |
+| Lab  3 | 18 | 9 | 14 | Submitted (Plag Penalty: -5) |
+| Lab  4 | 12 | 8 | 11 | Submitted (Plag Penalty: -3) |
+| Lab  5 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  6 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  7 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  8 | 12 | 12 | 12 | Submitted |
+| Lab  9 | 12 | 12 | 12 | Submitted |
+| Lab 10 | 12 | 12 | 12 | Submitted |
+| Lab 11 | 12 | 12 | 12 | Submitted |
+| Lab 12 | 12 | 12 | 12 | Submitted |
+| Lab 13 | 12 | 11 | 11 | Submitted |
+| Lab 14 | 48 | 0 | 0 | Absent / Missing |
+| **Grand Total** | **210** | **138** | **155** | **Percentage: 65.71% (Excl. Plag: 73.81%)** |
+
+---
+
+
+<br>
+
+---
+---
+
+<br>
+
 # Lab 1 Evaluation Report (Structures & Pointers)
 
 **Student Roll Number:** 2025-SE-40

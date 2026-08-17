@@ -1,3 +1,43 @@
+# Object-Oriented Programming — Consolidated Evaluation Report
+
+**Student Name:** Tahreem Rasheed  
+**Roll Number:** `2025-SE-18`  
+**Total Maximum Marks:** 210  
+**Total Obtained Marks:** 133 / 210 (63.33%)  
+**Total Excluding Plagiarism:** 133 / 210 (63.33%)  
+
+---
+
+### 📊 **Student Grand Total Result Table**
+
+| Lab Number | Total Marks | Obtained Marks | Excluding Plagarism | Status / Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| Lab  1 | 12 | 10 | 10 | Submitted |
+| Lab  2 | 12 | 8 | 8 | Submitted |
+| Lab  3 | 18 | 13 | 13 | Submitted |
+| Lab  4 | 12 | 12 | 12 | Submitted |
+| Lab  5 | 12 | 11 | 11 | Submitted |
+| Lab  6 | 12 | 12 | 12 | Submitted |
+| Lab  7 | 12 | 12 | 12 | Submitted |
+| Lab  8 | 12 | 11 | 11 | Submitted |
+| Lab  9 | 12 | 8 | 8 | Submitted |
+| Lab 10 | 12 | 12 | 12 | Submitted |
+| Lab 11 | 12 | 12 | 12 | Submitted |
+| Lab 12 | 12 | 12 | 12 | Submitted |
+| Lab 13 | 12 | 0 | 0 | Absent / Missing |
+| Lab 14 | 48 | 0 | 0 | Absent / Missing |
+| **Grand Total** | **210** | **133** | **133** | **Percentage: 63.33% (Excl. Plag: 63.33%)** |
+
+---
+
+
+<br>
+
+---
+---
+
+<br>
+
 # Lab 1 Evaluation Report (Structures & Pointers)
 
 **Student Roll Number:** 2025-SE-18

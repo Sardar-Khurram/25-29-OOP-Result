@@ -1,3 +1,43 @@
+# Object-Oriented Programming — Consolidated Evaluation Report
+
+**Student Name:** Sahadat Ali  
+**Roll Number:** `2024-SE-36`  
+**Total Maximum Marks:** 210  
+**Total Obtained Marks:** 117 / 210 (55.71%)  
+**Total Excluding Plagiarism:** 117 / 210 (55.71%)  
+
+---
+
+### 📊 **Student Grand Total Result Table**
+
+| Lab Number | Total Marks | Obtained Marks | Excluding Plagarism | Status / Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| Lab  1 | 12 | 0 | 0 | Absent / Missing |
+| Lab  2 | 12 | 12 | 12 | Submitted |
+| Lab  3 | 18 | 0 | 0 | Absent / Missing |
+| Lab  4 | 12 | 12 | 12 | Submitted |
+| Lab  5 | 12 | 9 | 9 | Submitted |
+| Lab  6 | 12 | 0 | 0 | Absent / Missing |
+| Lab  7 | 12 | 7 | 7 | Submitted |
+| Lab  8 | 12 | 10 | 10 | Submitted |
+| Lab  9 | 12 | 12 | 12 | Submitted |
+| Lab 10 | 12 | 12 | 12 | Submitted |
+| Lab 11 | 12 | 6 | 6 | Submitted |
+| Lab 12 | 12 | 0 | 0 | Absent / Missing |
+| Lab 13 | 12 | 0 | 0 | Absent / Missing |
+| Lab 14 | 48 | 37 | 37 | Submitted |
+| **Grand Total** | **210** | **117** | **117** | **Percentage: 55.71% (Excl. Plag: 55.71%)** |
+
+---
+
+
+<br>
+
+---
+---
+
+<br>
+
 # Lab 1 Evaluation Report (Structures & Pointers)
 
 **Student Roll Number:** 2024-SE-36

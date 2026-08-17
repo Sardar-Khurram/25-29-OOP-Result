@@ -1,3 +1,43 @@
+# Object-Oriented Programming — Consolidated Evaluation Report
+
+**Student Name:** Muhammad Arif  
+**Roll Number:** `2025-SE-42`  
+**Total Maximum Marks:** 210  
+**Total Obtained Marks:** 64 / 210 (30.48%)  
+**Total Excluding Plagiarism:** 81 / 210 (38.57%)  
+
+---
+
+### 📊 **Student Grand Total Result Table**
+
+| Lab Number | Total Marks | Obtained Marks | Excluding Plagarism | Status / Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| Lab  1 | 12 | 11 | 11 | Submitted |
+| Lab  2 | 12 | 9 | 9 | Submitted |
+| Lab  3 | 18 | 9 | 14 | Submitted (Plag Penalty: -5) |
+| Lab  4 | 12 | 8 | 11 | Submitted (Plag Penalty: -3) |
+| Lab  5 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  6 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  7 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  8 | 12 | 0 | 0 | Absent / Missing |
+| Lab  9 | 12 | 0 | 0 | Absent / Missing |
+| Lab 10 | 12 | 0 | 0 | Absent / Missing |
+| Lab 11 | 12 | 0 | 0 | Absent / Missing |
+| Lab 12 | 12 | 0 | 0 | Absent / Missing |
+| Lab 13 | 12 | 0 | 0 | Absent / Missing |
+| Lab 14 | 48 | 0 | 0 | Absent / Missing |
+| **Grand Total** | **210** | **64** | **81** | **Percentage: 30.48% (Excl. Plag: 38.57%)** |
+
+---
+
+
+<br>
+
+---
+---
+
+<br>
+
 # Lab 1 Evaluation Report (Structures & Pointers)
 
 **Student Roll Number:** 2025-SE-42

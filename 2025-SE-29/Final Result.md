@@ -1,3 +1,43 @@
+# Object-Oriented Programming — Consolidated Evaluation Report
+
+**Student Name:** Shiza Mukhtar  
+**Roll Number:** `2025-SE-29`  
+**Total Maximum Marks:** 210  
+**Total Obtained Marks:** 208 / 210 (99.05%)  
+**Total Excluding Plagiarism:** 208 / 210 (99.05%)  
+
+---
+
+### 📊 **Student Grand Total Result Table**
+
+| Lab Number | Total Marks | Obtained Marks | Excluding Plagarism | Status / Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| Lab  1 | 12 | 12 | 12 | Submitted |
+| Lab  2 | 12 | 12 | 12 | Submitted |
+| Lab  3 | 18 | 17 | 17 | Submitted |
+| Lab  4 | 12 | 12 | 12 | Submitted |
+| Lab  5 | 12 | 11 | 11 | Submitted |
+| Lab  6 | 12 | 12 | 12 | Submitted |
+| Lab  7 | 12 | 12 | 12 | Submitted |
+| Lab  8 | 12 | 12 | 12 | Submitted |
+| Lab  9 | 12 | 12 | 12 | Submitted |
+| Lab 10 | 12 | 12 | 12 | Submitted |
+| Lab 11 | 12 | 12 | 12 | Submitted |
+| Lab 12 | 12 | 12 | 12 | Submitted |
+| Lab 13 | 12 | 12 | 12 | Submitted |
+| Lab 14 | 48 | 48 | 48 | Submitted |
+| **Grand Total** | **210** | **208** | **208** | **Percentage: 99.05% (Excl. Plag: 99.05%)** |
+
+---
+
+
+<br>
+
+---
+---
+
+<br>
+
 # Lab 1 Evaluation Report (Structures & Pointers)
 
 **Student Roll Number:** 2025-SE-29

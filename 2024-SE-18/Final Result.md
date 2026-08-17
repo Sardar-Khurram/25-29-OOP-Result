@@ -1,3 +1,43 @@
+# Object-Oriented Programming — Consolidated Evaluation Report
+
+**Student Name:** Syed Abdul Rehman Naseem  
+**Roll Number:** `2024-SE-18`  
+**Total Maximum Marks:** 210  
+**Total Obtained Marks:** 148 / 210 (70.48%)  
+**Total Excluding Plagiarism:** 166 / 210 (79.05%)  
+
+---
+
+### 📊 **Student Grand Total Result Table**
+
+| Lab Number | Total Marks | Obtained Marks | Excluding Plagarism | Status / Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| Lab  1 | 12 | 11 | 11 | Submitted |
+| Lab  2 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  3 | 18 | 17 | 17 | Submitted |
+| Lab  4 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  5 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  6 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  7 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  8 | 12 | 12 | 12 | Submitted |
+| Lab  9 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab 10 | 12 | 12 | 12 | Submitted |
+| Lab 11 | 12 | 0 | 0 | Absent / Missing |
+| Lab 12 | 12 | 0 | 0 | Absent / Missing |
+| Lab 13 | 12 | 0 | 0 | Absent / Missing |
+| Lab 14 | 48 | 42 | 42 | Submitted |
+| **Grand Total** | **210** | **148** | **166** | **Percentage: 70.48% (Excl. Plag: 79.05%)** |
+
+---
+
+
+<br>
+
+---
+---
+
+<br>
+
 # Lab 1 Evaluation Report (Structures & Pointers)
 
 **Student Roll Number:** 2024-SE-18

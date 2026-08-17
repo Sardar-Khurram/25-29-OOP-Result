@@ -1,3 +1,43 @@
+# Object-Oriented Programming — Consolidated Evaluation Report
+
+**Student Name:** Maryam Jamil  
+**Roll Number:** `2025-SE-06`  
+**Total Maximum Marks:** 210  
+**Total Obtained Marks:** 133 / 210 (63.33%)  
+**Total Excluding Plagiarism:** 157 / 210 (74.76%)  
+
+---
+
+### 📊 **Student Grand Total Result Table**
+
+| Lab Number | Total Marks | Obtained Marks | Excluding Plagarism | Status / Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| Lab  1 | 12 | 9 | 9 | Submitted |
+| Lab  2 | 12 | 10 | 10 | Submitted |
+| Lab  3 | 18 | 18 | 18 | Submitted |
+| Lab  4 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  5 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  6 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  7 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  8 | 12 | 12 | 12 | Submitted |
+| Lab  9 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab 10 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab 11 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab 12 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab 13 | 12 | 12 | 12 | Submitted |
+| Lab 14 | 48 | 0 | 0 | Absent / Missing |
+| **Grand Total** | **210** | **133** | **157** | **Percentage: 63.33% (Excl. Plag: 74.76%)** |
+
+---
+
+
+<br>
+
+---
+---
+
+<br>
+
 # Lab 1 Evaluation Report (Structures & Pointers)
 
 **Student Roll Number:** 2025-SE-06

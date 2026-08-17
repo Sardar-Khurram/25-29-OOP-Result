@@ -1,3 +1,43 @@
+# Object-Oriented Programming — Consolidated Evaluation Report
+
+**Student Name:** Tanzeela Rehman  
+**Roll Number:** `2025-SE-36`  
+**Total Maximum Marks:** 210  
+**Total Obtained Marks:** 99 / 210 (47.14%)  
+**Total Excluding Plagiarism:** 102 / 210 (48.57%)  
+
+---
+
+### 📊 **Student Grand Total Result Table**
+
+| Lab Number | Total Marks | Obtained Marks | Excluding Plagarism | Status / Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| Lab  1 | 12 | 6 | 6 | Submitted |
+| Lab  2 | 12 | 12 | 12 | Submitted |
+| Lab  3 | 18 | 17 | 17 | Submitted |
+| Lab  4 | 12 | 9 | 9 | Submitted |
+| Lab  5 | 12 | 10 | 10 | Submitted |
+| Lab  6 | 12 | 12 | 12 | Submitted |
+| Lab  7 | 12 | 12 | 12 | Submitted |
+| Lab  8 | 12 | 12 | 12 | Submitted |
+| Lab  9 | 12 | 0 | 0 | Absent / Missing |
+| Lab 10 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab 11 | 12 | 0 | 0 | Absent / Missing |
+| Lab 12 | 12 | 0 | 0 | Absent / Missing |
+| Lab 13 | 12 | 0 | 0 | Absent / Missing |
+| Lab 14 | 48 | 0 | 0 | Absent / Missing |
+| **Grand Total** | **210** | **99** | **102** | **Percentage: 47.14% (Excl. Plag: 48.57%)** |
+
+---
+
+
+<br>
+
+---
+---
+
+<br>
+
 # Lab 1 Evaluation Report (Structures & Pointers)
 
 **Student Roll Number:** 2025-SE-36

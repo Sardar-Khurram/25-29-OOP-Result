@@ -1,3 +1,43 @@
+# Object-Oriented Programming — Consolidated Evaluation Report
+
+**Student Name:** Misbah Khurshid  
+**Roll Number:** `2025-SE-10`  
+**Total Maximum Marks:** 210  
+**Total Obtained Marks:** 121 / 210 (57.62%)  
+**Total Excluding Plagiarism:** 121 / 210 (57.62%)  
+
+---
+
+### 📊 **Student Grand Total Result Table**
+
+| Lab Number | Total Marks | Obtained Marks | Excluding Plagarism | Status / Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| Lab  1 | 12 | 10 | 10 | Submitted |
+| Lab  2 | 12 | 11 | 11 | Submitted |
+| Lab  3 | 18 | 17 | 17 | Submitted |
+| Lab  4 | 12 | 11 | 11 | Submitted |
+| Lab  5 | 12 | 12 | 12 | Submitted |
+| Lab  6 | 12 | 12 | 12 | Submitted |
+| Lab  7 | 12 | 12 | 12 | Submitted |
+| Lab  8 | 12 | 12 | 12 | Submitted |
+| Lab  9 | 12 | 12 | 12 | Submitted |
+| Lab 10 | 12 | 12 | 12 | Submitted |
+| Lab 11 | 12 | 0 | 0 | Absent / Missing |
+| Lab 12 | 12 | 0 | 0 | Absent / Missing |
+| Lab 13 | 12 | 0 | 0 | Absent / Missing |
+| Lab 14 | 48 | 0 | 0 | Absent / Missing |
+| **Grand Total** | **210** | **121** | **121** | **Percentage: 57.62% (Excl. Plag: 57.62%)** |
+
+---
+
+
+<br>
+
+---
+---
+
+<br>
+
 # Lab 1 Evaluation Report (Structures & Pointers)
 
 **Student Roll Number:** 2025-SE-10

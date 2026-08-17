@@ -1,3 +1,43 @@
+# Object-Oriented Programming — Consolidated Evaluation Report
+
+**Student Name:** Malik Waqar Latif  
+**Roll Number:** `2025-SE-30`  
+**Total Maximum Marks:** 210  
+**Total Obtained Marks:** 110 / 210 (52.38%)  
+**Total Excluding Plagiarism:** 110 / 210 (52.38%)  
+
+---
+
+### 📊 **Student Grand Total Result Table**
+
+| Lab Number | Total Marks | Obtained Marks | Excluding Plagarism | Status / Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| Lab  1 | 12 | 12 | 12 | Submitted |
+| Lab  2 | 12 | 10 | 10 | Submitted |
+| Lab  3 | 18 | 16 | 16 | Submitted |
+| Lab  4 | 12 | 12 | 12 | Submitted |
+| Lab  5 | 12 | 12 | 12 | Submitted |
+| Lab  6 | 12 | 12 | 12 | Submitted |
+| Lab  7 | 12 | 12 | 12 | Submitted |
+| Lab  8 | 12 | 12 | 12 | Submitted |
+| Lab  9 | 12 | 0 | 0 | Absent / Missing |
+| Lab 10 | 12 | 12 | 12 | Submitted |
+| Lab 11 | 12 | 0 | 0 | Absent / Missing |
+| Lab 12 | 12 | 0 | 0 | Absent / Missing |
+| Lab 13 | 12 | 0 | 0 | Absent / Missing |
+| Lab 14 | 48 | 0 | 0 | Absent / Missing |
+| **Grand Total** | **210** | **110** | **110** | **Percentage: 52.38% (Excl. Plag: 52.38%)** |
+
+---
+
+
+<br>
+
+---
+---
+
+<br>
+
 # Lab 1 Evaluation Report (Structures & Pointers)
 
 **Student Roll Number:** 2025-SE-30

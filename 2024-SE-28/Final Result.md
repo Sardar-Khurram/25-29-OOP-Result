@@ -1,3 +1,43 @@
+# Object-Oriented Programming — Consolidated Evaluation Report
+
+**Student Name:** Raja Wajihullah Khan  
+**Roll Number:** `2024-SE-28`  
+**Total Maximum Marks:** 210  
+**Total Obtained Marks:** 19 / 210 (9.05%)  
+**Total Excluding Plagiarism:** 19 / 210 (9.05%)  
+
+---
+
+### 📊 **Student Grand Total Result Table**
+
+| Lab Number | Total Marks | Obtained Marks | Excluding Plagarism | Status / Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| Lab  1 | 12 | 11 | 11 | Submitted |
+| Lab  2 | 12 | 8 | 8 | Submitted |
+| Lab  3 | 18 | 0 | 0 | Absent / Missing |
+| Lab  4 | 12 | 0 | 0 | Absent / Missing |
+| Lab  5 | 12 | 0 | 0 | Absent / Missing |
+| Lab  6 | 12 | 0 | 0 | Absent / Missing |
+| Lab  7 | 12 | 0 | 0 | Absent / Missing |
+| Lab  8 | 12 | 0 | 0 | Absent / Missing |
+| Lab  9 | 12 | 0 | 0 | Absent / Missing |
+| Lab 10 | 12 | 0 | 0 | Absent / Missing |
+| Lab 11 | 12 | 0 | 0 | Absent / Missing |
+| Lab 12 | 12 | 0 | 0 | Absent / Missing |
+| Lab 13 | 12 | 0 | 0 | Absent / Missing |
+| Lab 14 | 48 | 0 | 0 | Absent / Missing |
+| **Grand Total** | **210** | **19** | **19** | **Percentage: 9.05% (Excl. Plag: 9.05%)** |
+
+---
+
+
+<br>
+
+---
+---
+
+<br>
+
 # Lab 1 Evaluation Report (Structures & Pointers)
 
 **Student Roll Number:** 2024-SE-28

@@ -1,3 +1,43 @@
+# Object-Oriented Programming — Consolidated Evaluation Report
+
+**Student Name:** Samia Arshad  
+**Roll Number:** `2025-SE-15`  
+**Total Maximum Marks:** 210  
+**Total Obtained Marks:** 197 / 210 (93.81%)  
+**Total Excluding Plagiarism:** 205 / 210 (97.62%)  
+
+---
+
+### 📊 **Student Grand Total Result Table**
+
+| Lab Number | Total Marks | Obtained Marks | Excluding Plagarism | Status / Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| Lab  1 | 12 | 12 | 12 | Submitted |
+| Lab  2 | 12 | 9 | 9 | Submitted |
+| Lab  3 | 18 | 18 | 18 | Submitted |
+| Lab  4 | 12 | 12 | 12 | Submitted |
+| Lab  5 | 12 | 12 | 12 | Submitted |
+| Lab  6 | 12 | 12 | 12 | Submitted |
+| Lab  7 | 12 | 12 | 12 | Submitted |
+| Lab  8 | 12 | 12 | 12 | Submitted |
+| Lab  9 | 12 | 12 | 12 | Submitted |
+| Lab 10 | 12 | 12 | 12 | Submitted |
+| Lab 11 | 12 | 12 | 12 | Submitted |
+| Lab 12 | 12 | 12 | 12 | Submitted |
+| Lab 13 | 12 | 10 | 10 | Submitted |
+| Lab 14 | 48 | 40 | 48 | Submitted (Plag Penalty: -8) |
+| **Grand Total** | **210** | **197** | **205** | **Percentage: 93.81% (Excl. Plag: 97.62%)** |
+
+---
+
+
+<br>
+
+---
+---
+
+<br>
+
 # Lab 1 Evaluation Report (Structures & Pointers)
 
 **Student Roll Number:** 2025-SE-15

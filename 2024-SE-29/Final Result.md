@@ -1,3 +1,43 @@
+# Object-Oriented Programming — Consolidated Evaluation Report
+
+**Student Name:** Sakeena Bano  
+**Roll Number:** `2024-SE-29`  
+**Total Maximum Marks:** 210  
+**Total Obtained Marks:** 45 / 210 (21.43%)  
+**Total Excluding Plagiarism:** 59 / 210 (28.10%)  
+
+---
+
+### 📊 **Student Grand Total Result Table**
+
+| Lab Number | Total Marks | Obtained Marks | Excluding Plagarism | Status / Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| Lab  1 | 12 | 0 | 0 | Absent / Missing |
+| Lab  2 | 12 | 12 | 12 | Submitted |
+| Lab  3 | 18 | 9 | 14 | Submitted (Plag Penalty: -5) |
+| Lab  4 | 12 | 1 | 1 | Submitted |
+| Lab  5 | 12 | 0 | 0 | Absent / Missing |
+| Lab  6 | 12 | 6 | 9 | Submitted (Plag Penalty: -3) |
+| Lab  7 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  8 | 12 | 0 | 0 | Absent / Missing |
+| Lab  9 | 12 | 0 | 0 | Absent / Missing |
+| Lab 10 | 12 | 8 | 11 | Submitted (Plag Penalty: -3) |
+| Lab 11 | 12 | 0 | 0 | Absent / Missing |
+| Lab 12 | 12 | 0 | 0 | Absent / Missing |
+| Lab 13 | 12 | 0 | 0 | Absent / Missing |
+| Lab 14 | 48 | 0 | 0 | Absent / Missing |
+| **Grand Total** | **210** | **45** | **59** | **Percentage: 21.43% (Excl. Plag: 28.10%)** |
+
+---
+
+
+<br>
+
+---
+---
+
+<br>
+
 # Lab 1 Evaluation Report (Structures & Pointers)
 
 **Student Roll Number:** 2024-SE-29

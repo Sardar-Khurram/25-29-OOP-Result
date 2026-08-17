@@ -1,3 +1,43 @@
+# Object-Oriented Programming — Consolidated Evaluation Report
+
+**Student Name:** Noor Ul Ain Abbasi  
+**Roll Number:** `2025-SE-22`  
+**Total Maximum Marks:** 210  
+**Total Obtained Marks:** 101 / 210 (48.10%)  
+**Total Excluding Plagiarism:** 119 / 210 (56.67%)  
+
+---
+
+### 📊 **Student Grand Total Result Table**
+
+| Lab Number | Total Marks | Obtained Marks | Excluding Plagarism | Status / Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| Lab  1 | 12 | 9 | 9 | Submitted |
+| Lab  2 | 12 | 12 | 12 | Submitted |
+| Lab  3 | 18 | 17 | 17 | Submitted |
+| Lab  4 | 12 | 6 | 9 | Submitted (Plag Penalty: -3) |
+| Lab  5 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  6 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  7 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  8 | 12 | 12 | 12 | Submitted |
+| Lab  9 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab 10 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab 11 | 12 | 0 | 0 | Absent / Missing |
+| Lab 12 | 12 | 0 | 0 | Absent / Missing |
+| Lab 13 | 12 | 0 | 0 | Absent / Missing |
+| Lab 14 | 48 | 0 | 0 | Absent / Missing |
+| **Grand Total** | **210** | **101** | **119** | **Percentage: 48.10% (Excl. Plag: 56.67%)** |
+
+---
+
+
+<br>
+
+---
+---
+
+<br>
+
 # Lab 1 Evaluation Report (Structures & Pointers)
 
 **Student Roll Number:** 2025-SE-22

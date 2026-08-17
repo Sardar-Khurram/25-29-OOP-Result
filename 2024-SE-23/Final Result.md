@@ -1,3 +1,43 @@
+# Object-Oriented Programming — Consolidated Evaluation Report
+
+**Student Name:** Muqaddas Kiani  
+**Roll Number:** `2024-SE-23`  
+**Total Maximum Marks:** 210  
+**Total Obtained Marks:** 181 / 210 (86.19%)  
+**Total Excluding Plagiarism:** 184 / 210 (87.62%)  
+
+---
+
+### 📊 **Student Grand Total Result Table**
+
+| Lab Number | Total Marks | Obtained Marks | Excluding Plagarism | Status / Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| Lab  1 | 12 | 10 | 10 | Submitted |
+| Lab  2 | 12 | 5 | 8 | Submitted (Plag Penalty: -3) |
+| Lab  3 | 18 | 18 | 18 | Submitted |
+| Lab  4 | 12 | 10 | 10 | Submitted |
+| Lab  5 | 12 | 9 | 9 | Submitted |
+| Lab  6 | 12 | 10 | 10 | Submitted |
+| Lab  7 | 12 | 10 | 10 | Submitted |
+| Lab  8 | 12 | 12 | 12 | Submitted |
+| Lab  9 | 12 | 12 | 12 | Submitted |
+| Lab 10 | 12 | 11 | 11 | Submitted |
+| Lab 11 | 12 | 11 | 11 | Submitted |
+| Lab 12 | 12 | 12 | 12 | Submitted |
+| Lab 13 | 12 | 11 | 11 | Submitted |
+| Lab 14 | 48 | 40 | 40 | Submitted |
+| **Grand Total** | **210** | **181** | **184** | **Percentage: 86.19% (Excl. Plag: 87.62%)** |
+
+---
+
+
+<br>
+
+---
+---
+
+<br>
+
 # Lab 1 Evaluation Report (Structures & Pointers)
 
 **Student Roll Number:** 2024-SE-23

@@ -1,3 +1,43 @@
+# Object-Oriented Programming — Consolidated Evaluation Report
+
+**Student Name:** Noor Fatima Kiani  
+**Roll Number:** `2025-SE-21`  
+**Total Maximum Marks:** 210  
+**Total Obtained Marks:** 47 / 210 (22.38%)  
+**Total Excluding Plagiarism:** 53 / 210 (25.24%)  
+
+---
+
+### 📊 **Student Grand Total Result Table**
+
+| Lab Number | Total Marks | Obtained Marks | Excluding Plagarism | Status / Notes |
+| :--- | :---: | :---: | :---: | :--- |
+| Lab  1 | 12 | 0 | 0 | Absent / Missing |
+| Lab  2 | 12 | 12 | 12 | Submitted |
+| Lab  3 | 18 | 17 | 17 | Submitted |
+| Lab  4 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  5 | 12 | 9 | 12 | Submitted (Plag Penalty: -3) |
+| Lab  6 | 12 | 0 | 0 | Absent / Missing |
+| Lab  7 | 12 | 0 | 0 | Absent / Missing |
+| Lab  8 | 12 | 0 | 0 | Absent / Missing |
+| Lab  9 | 12 | 0 | 0 | Absent / Missing |
+| Lab 10 | 12 | 0 | 0 | Absent / Missing |
+| Lab 11 | 12 | 0 | 0 | Absent / Missing |
+| Lab 12 | 12 | 0 | 0 | Absent / Missing |
+| Lab 13 | 12 | 0 | 0 | Absent / Missing |
+| Lab 14 | 48 | 0 | 0 | Absent / Missing |
+| **Grand Total** | **210** | **47** | **53** | **Percentage: 22.38% (Excl. Plag: 25.24%)** |
+
+---
+
+
+<br>
+
+---
+---
+
+<br>
+
 # Lab 1 Evaluation Report (Structures & Pointers)
 
 **Student Roll Number:** 2025-SE-21
